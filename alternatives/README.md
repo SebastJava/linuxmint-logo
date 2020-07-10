@@ -1,0 +1,3 @@
+
+![preview image](https://github.com/SebastJava/linuxmint-logo/blob/master/alternatives/linuxmint-logo-prv.png)
+Here is one of my new versions that have not received official approval...
