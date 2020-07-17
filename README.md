@@ -1,6 +1,6 @@
 # linuxmint-logo
 ### The official LinuxMint logo subtly redesigned with a few pixels of difference
-![Preview of logo variations](https://github.com/SebastJava/linuxmint-logo/blob/master/linuxmint-logo-prv.png)
+![Preview of logo variations](https://github.com/SebastJava/linuxmint-logo/blob/master/Logos-prv.svg)
 
 The choice of official color is left aside for now. Maybe this #009973 hex color? These logos are currently in black and white and could be colored, or left as is.
 <br><br>
