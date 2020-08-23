@@ -10,7 +10,7 @@
    inkscape:export-ydpi="96"
    inkscape:export-xdpi="96"
    inkscape:export-filename="/home/sebastien/Sources/LM-logo/Color_lm+name_#75cc1c.png"
-   sodipodi:docname="Logo-Ring-Filled-#000.svg"
+   sodipodi:docname="Logo-Badge-Filled-#FFF.svg"
    inkscape:version="1.0 (1.0+r73+1)"
    version="1.1"
    id="svg4135"
@@ -20,7 +20,6 @@
   <defs
      id="defs4137" />
   <sodipodi:namedview
-     inkscape:pagecheckerboard="false"
      inkscape:document-rotation="0"
      fit-margin-bottom="0"
      fit-margin-right="0"
@@ -41,9 +40,9 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="123.00002"
-     inkscape:cx="142.92892"
-     inkscape:zoom="2"
+     inkscape:cy="140"
+     inkscape:cx="140"
+     inkscape:zoom="2.4071429"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      borderopacity="1.0"
@@ -93,24 +92,18 @@
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
     <g
-       id="g924">
-      <circle
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:22.6538;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse4245"
-         cx="233"
-         cy="973.36212"
-         r="140" />
+       id="g58">
       <circle
          cy="973.3623"
          cx="233"
          id="ellipse4247"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:19.1449;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         r="120" />
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:22.3357;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="140" />
       <path
          sodipodi:nodetypes="csssccsccsssc"
          inkscape:connector-curvature="0"
-         d="m 212.99999,1000.3621 v -49.99992 c 0,-11.04569 8.95431,-20 20,-20 11.04569,0 20,8.95431 20,20 v 49.99992 m -80,-89.99992 v 89.99992 c 0,16.5686 13.43147,30 30,30 h 60 c 16.56854,0 30,-13.4314 30,-30 v -49.99992 c 0,-11.04569 -8.95431,-20 -20,-20 -11.04569,0 -20,8.95431 -20,20"
-         style="fill:none;fill-opacity:0.266667;stroke:#ffffff;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 211,1002.8621 v -54.99993 c 0,-12.15025 9.84975,-22 22.00001,-22 12.15025,0 22,9.84975 22,22 v 54.99993 m -88,-98.99992 v 98.99992 c 0,18.2254 14.7746,33 32.99999,33 h 66.00002 c 18.22538,0 32.99999,-14.7746 32.99999,-33 v -54.99993 c 0,-12.15025 -9.84974,-22 -22.00001,-22 -12.15025,0 -21.99999,9.84975 -21.99999,22"
+         style="fill:none;fill-opacity:0.266667;stroke:#000000;stroke-width:22;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path4249" />
     </g>
   </g>
