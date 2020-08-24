@@ -1,6 +1,6 @@
 # linuxmint-logo
 ### The official LinuxMint logo subtly redesigned with a few pixels of difference
-![Preview of logo variations](https://github.com/SebastJava/linuxmint-logo/blob/master/Logos-prv.svg)
+![Preview of logo variations](https://github.com/SebastJava/linuxmint-logo/blob/master/logos-screenshot.png)
 
 The choice of official color is left aside for now. These logos are currently in black and white and could be colored, or left as is. There are transparent parts. Use your image viewer to differentiate transparent parts from white.
 
