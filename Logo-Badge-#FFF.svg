@@ -13,7 +13,7 @@
    id="svg4135"
    version="1.1"
    inkscape:version="1.0 (1.0+r73+1)"
-   sodipodi:docname="Logo-Badge-Filled-#F46A25.svg"
+   sodipodi:docname="Logo-Badge-#FFF.svg"
    inkscape:export-filename="/home/sebastien/Sources/LM-logo/Color_lm+name_#75cc1c.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -21,13 +21,13 @@
      id="defs4137" />
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#f2f2f2"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.4071429"
-     inkscape:cx="140"
+     inkscape:zoom="1"
+     inkscape:cx="66.555436"
      inkscape:cy="140"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -91,20 +91,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-93,-833.36218)">
-    <g
-       id="g58">
-      <circle
-         r="140"
-         style="fill:#f46a25;fill-opacity:1;stroke:none;stroke-width:22.3357;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse4247"
-         cx="233"
-         cy="973.3623" />
-      <path
-         id="path4249"
-         style="fill:none;fill-opacity:0.266667;stroke:#ffffff;stroke-width:22;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 211,1002.8621 v -54.99993 c 0,-12.15025 9.84975,-22 22.00001,-22 12.15025,0 22,9.84975 22,22 v 54.99993 m -88,-98.99992 v 98.99992 c 0,18.2254 14.7746,33 32.99999,33 h 66.00002 c 18.22538,0 32.99999,-14.7746 32.99999,-33 v -54.99993 c 0,-12.15025 -9.84974,-22 -22.00001,-22 -12.15025,0 -21.99999,9.84975 -21.99999,22"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="csssccsccsssc" />
-    </g>
+    <path
+       id="ellipse4247"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:22.3357;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 139.97461 0 A 140 140 0 0 0 0 140 A 140 140 0 0 0 140 280 A 140 140 0 0 0 280 140 A 140 140 0 0 0 140 0 A 140 140 0 0 0 139.97461 0 z M 63 70.5 L 85 70.5 L 85 169.5 C 85 181.7806 94.71945 191.5 107 191.5 L 173 191.5 C 185.28053 191.5 195 181.7806 195 169.5 L 195 114.5 C 195 108.2946 190.20542 103.5 184 103.5 C 177.79461 103.5 173 108.2946 173 114.5 L 173 169.5 L 151 169.5 L 151 114.5 C 151 108.29461 146.20539 103.5 140 103.5 C 133.79459 103.5 129 108.29461 129 114.5 L 129 169.5 L 107 169.5 L 107 114.5 C 107 96.40489 121.90489 81.5 140 81.5 C 148.4533 81.5 156.13349 84.841054 162 90.152344 C 167.86651 84.841054 175.5467 81.5 184 81.5 C 202.09512 81.5 217 96.4049 217 114.5 L 217 169.5 C 217 193.6703 197.17023 213.5 173 213.5 L 107 213.5 C 82.82977 213.5 63 193.6703 63 169.5 L 63 70.5 z "
+       transform="translate(93,833.36218)" />
   </g>
 </svg>

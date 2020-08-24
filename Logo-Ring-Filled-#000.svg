@@ -93,9 +93,9 @@
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
     <g
-       id="g924">
+       id="g3693">
       <circle
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:22.6538;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse4245"
          cx="233"
          cy="973.36212"
@@ -104,13 +104,13 @@
          cy="973.3623"
          cx="233"
          id="ellipse4247"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:19.1449;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          r="120" />
       <path
          sodipodi:nodetypes="csssccsccsssc"
          inkscape:connector-curvature="0"
          d="m 212.99999,1000.3621 v -49.99992 c 0,-11.04569 8.95431,-20 20,-20 11.04569,0 20,8.95431 20,20 v 49.99992 m -80,-89.99992 v 89.99992 c 0,16.5686 13.43147,30 30,30 h 60 c 16.56854,0 30,-13.4314 30,-30 v -49.99992 c 0,-11.04569 -8.95431,-20 -20,-20 -11.04569,0 -20,8.95431 -20,20"
-         style="fill:none;fill-opacity:0.266667;stroke:#ffffff;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;fill-opacity:0.266667;stroke:#000000;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path4249" />
     </g>
   </g>

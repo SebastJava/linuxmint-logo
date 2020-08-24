@@ -10,16 +10,17 @@
    inkscape:export-ydpi="96"
    inkscape:export-xdpi="96"
    inkscape:export-filename="/home/sebastien/Sources/LM-logo/Color_lm+name_#75cc1c.png"
-   sodipodi:docname="Logo-Ring-#000.svg"
+   sodipodi:docname="Logo-Ring-Filled+shadow#FFF.svg"
    inkscape:version="1.0 (1.0+r73+1)"
    version="1.1"
    id="svg4135"
-   viewBox="0 0 280 280"
-   height="280"
-   width="280">
+   viewBox="0 0 320 320"
+   height="320"
+   width="320">
   <defs
      id="defs4137" />
   <sodipodi:namedview
+     inkscape:pagecheckerboard="false"
      inkscape:document-rotation="0"
      fit-margin-bottom="0"
      fit-margin-right="0"
@@ -40,9 +41,9 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="140.00008"
-     inkscape:cx="132.1418"
-     inkscape:zoom="2.4178558"
+     inkscape:cy="123.00002"
+     inkscape:cx="111.17892"
+     inkscape:zoom="2"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      borderopacity="1.0"
@@ -50,8 +51,8 @@
      pagecolor="#f2f2f2"
      id="base">
     <inkscape:grid
-       originy="-92.999932"
-       originx="-92.999993"
+       originy="-93.000018"
+       originx="-92.999998"
        dotted="false"
        empopacity="0.25098039"
        empcolor="#ff3f3f"
@@ -65,7 +66,7 @@
        inkscape:locked="false"
        id="guide4248"
        orientation="0,1"
-       position="-92.999992,137" />
+       position="-92.999998,-17.000068" />
   </sodipodi:namedview>
   <metadata
      id="metadata4140">
@@ -87,21 +88,35 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-92.999995,-833.36209)"
+     transform="translate(-93,-833.36218)"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle857"
+       cx="253"
+       cy="993.36218"
+       r="142" />
     <g
-       id="g3717">
-      <path
-         d="m 232.60069,833.36224 a 140,140 0 0 0 -139.600695,140 140,140 0 0 0 139.999995,139.99996 140,140 0 0 0 140,-139.99996 140,140 0 0 0 -140,-140 140,140 0 0 0 -0.3993,0 z m 0.0304,20 a 120,120 0 0 1 0.36893,0 120,120 0 0 1 120,120 120,120 0 0 1 -120,119.99996 120,120 0 0 1 -120,-119.99996 120,120 0 0 1 119.63108,-120 z"
+       id="g862">
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse4245"
+         cx="253"
+         cy="993.36218"
+         r="140" />
+      <circle
+         cy="993.36237"
+         cx="253"
+         id="ellipse4247"
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse4245" />
+         r="120" />
       <path
          sodipodi:nodetypes="csssccsccsssc"
          inkscape:connector-curvature="0"
-         d="m 212.99999,1000.0289 v -49.99995 c 0,-11.04569 8.95431,-20 20,-20 11.04569,0 20,8.95431 20,20 v 49.99995 m -80,-89.99995 v 89.99995 c 0,16.5686 13.43147,30 30,30 h 60 c 16.56854,0 30,-13.4314 30,-30 v -49.99995 c 0,-11.04569 -8.95431,-20 -20,-20 -11.04569,0 -20,8.95431 -20,20"
-         style="fill:none;fill-opacity:0.266667;stroke:#000000;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 232.99999,1020.3622 v -49.99996 c 0,-11.04569 8.95431,-20 20,-20 11.04569,0 20,8.95431 20,20 v 49.99996 m -80,-89.99996 v 89.99996 c 0,16.5686 13.43147,30 30,30 h 60 c 16.56854,0 30,-13.4314 30,-30 v -49.99996 c 0,-11.04569 -8.95431,-20 -20,-20 -11.04569,0 -20,8.95431 -20,20"
+         style="fill:none;fill-opacity:0.266667;stroke:#ffffff;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path4249" />
     </g>
   </g>
