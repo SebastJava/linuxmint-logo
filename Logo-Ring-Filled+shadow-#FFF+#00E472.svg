@@ -12,9 +12,9 @@
    viewBox="0 0 320 320"
    id="svg4135"
    version="1.1"
-   inkscape:version="1.0.1 (1.0.1+r73)"
-   sodipodi:docname="Logo-Ring-Filled+shadow-#FFF+#14B866.svg"
-   inkscape:export-filename="/home/sebastien/linuxmint-logo/Logo-Ring-Filled+shadow-#FFF+#14B866.png"
+   inkscape:version="1.0.1 (1.0.1+r74)"
+   sodipodi:docname="Logo-Ring-Filled+shadow-#FFF+#00E472.svg"
+   inkscape:export-filename="/home/sebastien/linuxmint-logo/Logo-Ring-Filled+shadow-#FFF+#00E472.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -40,8 +40,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="53.67892"
+     inkscape:zoom="1"
+     inkscape:cx="103.67892"
      inkscape:cy="163.00002"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -122,7 +122,7 @@
          style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <circle
          r="120"
-         style="fill:#14b866;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#00e472;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse4247"
          cx="253"
          cy="993.36237" />
