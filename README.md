@@ -1,7 +1,7 @@
-![Logo](https://github.com/SebastJava/linuxmint-logo/blob/master/Logo-Ring-Filled%2Bshadow-%23FFF%2B%2314B866.png)
+![Logo](https://github.com/SebastJava/linuxmint-logo/blob/master/Logo-Ring-Filled%2Bshadow-%23FFF%2B%2300E472.png)
 # linuxmint-logo
 ### The official LinuxMint logo subtly redesigned with a few pixels of difference
-![Preview of logo variations](https://github.com/SebastJava/linuxmint-logo/blob/master/logos-screenshot.png)
+![Preview of logo variations](https://github.com/SebastJava/linuxmint-logo/blob/master/Screenshot.png)
 
 The choice of official color is left aside for now. These logos are currently in black and white and could be colored, or left as is. There are transparent parts. Use your image viewer to differentiate transparent parts from white.
 
