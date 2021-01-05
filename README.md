@@ -20,9 +20,7 @@ I set out to redraw this logo from scratch, on a blank page, and forgetting all 
 In the comments received, in those that are positive, Reaccion Raul suggested a simpler background, if any, or just the "lm". And then Joan_2018 suggested doing that in black and white, without colors. And then, later, Clem presented us with a simplified logo with different backgrounds, mostly circular background shapes. So this logo is the result of collective work, in my humble opinion.
 
 ### Color
-The official color is yet to be determined, as far as I know. Well, not exactly. Clem wants to keep a 90° hue (HSL color representation). That's a yellow-green. Saturation and brightness are still to be determined. Take note that in parallel with that, the colors of the Mint-Y theme are also to be redefined, as of late summer 2020. And that includes the Mint green.
-
-I have worked on the issue of Mint-Y colors for a long time. There must be some good contrast with the white text, in the Nemo file manager for example. The official Mint hue is a green-yellow. This is a very bright color. It is therefore necessary to greatly reduce the saturation and lightness (HSL color representation). But then, I don't find it pretty. So I chose a whole other, unofficial hue. I'm still hesitating but I think about 150° or 160°. A turquoise green. Something that reminds me of mint soda. Let's say... this color: #00A870.
+The official color is yet to be determined, as far as I know. Well, not exactly. Clem wants to keep a 90° hue (HSL color representation). That's a yellow-green. Saturation and brightness are still to be determined. Take note that in parallel with that, the colors of the Mint-Y theme are also to be redefined, as of late summer 2020. And that includes the Mint green. But the logo does not have to get the exact same color as the Mint-Y theme. The logo color could be more vibrant, some bright color that stands out.
 
 ### Download
 To download, click on the top-right green button on the main page and select "Download ZIP".
