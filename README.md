@@ -1,4 +1,4 @@
-![Logo](https://github.com/SebastJava/linuxmint-logo/blob/master/LogoOut%2Bname.png)
+![Logo](https://github.com/SebastJava/linuxmint-logo/blob/master/LogoIn%2Bname.png)
 # linuxmint-logo
 ### The official LinuxMint logo subtly redesigned with a few pixels of difference
 ![Preview of logo variations](https://github.com/SebastJava/linuxmint-logo/blob/master/Screenshot.png)
