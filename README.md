@@ -7,7 +7,7 @@ The choice of official color is left aside for now. These logos are currently in
 
 These are SVG files. Use Inkscape to change the colors or do any other editing. I find it much safer to export these images to PNG format to ensure they are always displayed the same and there is no bad interpretations. Again, i recommend using Inkscape for these PNG exports. I am currently using Inkscape 1.0, installed from PPA. If you want to edit those files in Inkscape, you may need to ungroup or unlock some elements.
 
-### I'm a perfectionist but late, sometimes
+### I'm a perfectionist, but late, sometimes
 This is almost the current official logo. I created this small repository for two reasons: i couldn’t find the official logo, and i wanted to redraw the svg files with a bit more space around the "lm" inside the circle. Also, i generally prefer round numbers and thus everything here is made of round numbers and absolute pixel values. And i prefer having the exact same line width for both the "lm" and the circle around it. I should have mentioned that when Clem asked me for some feedback, but for some reason i did not care at the time and now Clem is probably very busy with other things such as this new LM 20.
 
 ### History
