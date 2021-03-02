@@ -11,7 +11,7 @@
    inkscape:export-xdpi="96"
    inkscape:export-filename="/home/sebastien/Sources/LM-logo/Color_lm+name_#75cc1c.png"
    sodipodi:docname="Logo-Ring-#FFF.svg"
-   inkscape:version="1.0 (1.0+r73+1)"
+   inkscape:version="1.0.2 (1.0.2+r75+1)"
    version="1.1"
    id="svg4135"
    viewBox="0 0 280 280"
@@ -91,18 +91,17 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
-    <g
-       id="g3717">
-      <path
-         d="m 232.60069,833.36224 a 140,140 0 0 0 -139.600695,140 140,140 0 0 0 139.999995,139.99996 140,140 0 0 0 140,-139.99996 140,140 0 0 0 -140,-140 140,140 0 0 0 -0.3993,0 z m 0.0304,20 a 120,120 0 0 1 0.36893,0 120,120 0 0 1 120,120 120,120 0 0 1 -120,119.99996 120,120 0 0 1 -120,-119.99996 120,120 0 0 1 119.63108,-120 z"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse4245" />
-      <path
-         sodipodi:nodetypes="csssccsccsssc"
-         inkscape:connector-curvature="0"
-         d="m 212.99999,1000.0289 v -49.99995 c 0,-11.04569 8.95431,-20 20,-20 11.04569,0 20,8.95431 20,20 v 49.99995 m -80,-89.99995 v 89.99995 c 0,16.5686 13.43147,30 30,30 h 60 c 16.56854,0 30,-13.4314 30,-30 v -49.99995 c 0,-11.04569 -8.95431,-20 -20,-20 -11.04569,0 -20,8.95431 -20,20"
-         style="fill:none;fill-opacity:0.266667;stroke:#ffffff;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path4249" />
-    </g>
+    <path
+       sodipodi:nodetypes="csssccsccsssc"
+       inkscape:connector-curvature="0"
+       d="m 212.99999,1000.0289 v -49.99995 c 0,-11.04569 8.95431,-20 20,-20 11.04569,0 20,8.95431 20,20 v 49.99995 m -80,-89.99995 v 89.99995 c 0,16.5686 13.43147,30 30,30 h 60 c 16.56854,0 30,-13.4314 30,-30 v -49.99995 c 0,-11.04569 -8.95431,-20 -20,-20 -11.04569,0 -20,8.95431 -20,20"
+       style="fill:none;fill-opacity:0.266667;stroke:#ffffff;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4249" />
+    <circle
+       style="fill:none;stroke:#ffffff;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path837"
+       cx="233"
+       cy="973.36206"
+       r="130" />
   </g>
 </svg>
