@@ -1,3 +1,3 @@
 ### Here is one of my new versions that have not received official approval...
 
-![preview image](https://github.com/SebastJava/linuxmint-logo/blob/master/alternatives/linuxmint-logo-prv.png)
+![preview image](Screenshot-alt.png)
