@@ -3,7 +3,7 @@
 ![Logo](preview.png)
 
 ## Download
-[Download ZIP here](https://github.com/SebastJava/linuxmint-logo/archive/main.zip) (OR click on top-right green button "Code" and then click on "Download ZIP".)
+[Download ZIP here](https://github.com/SebastJava/linuxmint-logo/archive/refs/heads/master.zip) (OR click on top-right green button "Code" and then click on "Download ZIP".)
 
 ## SVG or PNG ?
 Please prefer the SVG source files. The PNG files are there for low resolution previews only. The SVG format is a vector based format, it is always perfect at any size and can be edited easily. On the other hand, sometimes I find it much safer to export these images to PNG format to ensure they are always displayed the same and there is no bad interpretations. But then, when using PNG formats, it is better to ensure you set the exact with X height size in pixels to avoid some possibly bad re-scaling. Or just make it at higher resolutions, but this is heavy on the internet transfer.
