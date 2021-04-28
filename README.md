@@ -1,5 +1,5 @@
 # linuxmint-logo
-## The official LinuxMint logo subtly redesigned with a few pixels of difference
+### The official LinuxMint logo subtly redesigned with a few pixels of difference
 ![Logo](preview.png)
 
 ## Download
