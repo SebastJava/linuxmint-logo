@@ -14,7 +14,7 @@ Use Inkscape to open one of these SVG files and change the colors or do any othe
 
 ## Differences
 * There isn't as many versions as in the official `/usr/share/icons/hicolor/scalable/apps/linuxmint-*`. Things are thus more constant, and simpler.
-* All versions are perfect squares or perfect circles, without any stretching. To achieve this, the "l" is a little taller, which makes sense since this letter is indeed taller in everyday typography: "Lm".
+* All versions are perfect squares or perfect circles, without any stretching. To achieve this, the "L" is a little taller, which makes sense since this letter is indeed taller in everyday typography: "Lm".
 * I didn't want the top of the "L" to be too close to the edge of the circle, but I also didn't want the logo to be too small. So, I took another path: an infinite "L"...
 * I am disappointed to sometimes find older versions of the logo still in use. These versions do not have the same spacing everywhere. It's a shame, because this new logo attracts with its good use of negative space. Please see my illustration to understand this. There is an underlying positive influence there...
 * All widths and spacings are equal and are round numbers.
