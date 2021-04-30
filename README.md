@@ -1,6 +1,6 @@
 # linuxmint-logo
 ### The official LinuxMint logo subtly redesigned with a few pixels of difference
-![Logo](preview.png)
+![Logo](preview-55D52A.png)
 
 ## Download
 [Download ZIP here](https://github.com/SebastJava/linuxmint-logo/archive/refs/heads/master.zip) (OR click on top-right green button "Code" and then click on "Download ZIP".)
