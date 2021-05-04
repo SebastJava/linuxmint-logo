@@ -1,6 +1,8 @@
-# linuxmint-logo
-### The official LinuxMint logo subtly redesigned with a few pixels of difference
-![Logo](preview-55D52A.png)
+![Logo-name](linuxmint-logo2-name-55D52A.png)
+
+## The official LinuxMint logo subtly redesigned with a few pixels of difference
+
+![Logos](preview-55D52A.png)
 
 ## Download
 [Download ZIP here](https://github.com/SebastJava/linuxmint-logo/archive/refs/heads/master.zip) (OR click on top-right green button "Code" and then click on "Download ZIP".)
@@ -18,6 +20,7 @@ Use Inkscape to open one of these SVG files and change the colors or do any othe
 * I didn't want the top of the "L" to be too close to the edge of the circle, but I also didn't want the logo to be too small. So, I took another path: an infinite "L"...
 * I am disappointed to sometimes find older versions of the logo still in use. These versions do not have the same spacing everywhere. It's a shame, because this new logo attracts with its good use of negative space. Please see my illustration to understand this. There is an underlying positive influence there...
 * All widths and spacings are equal and are round numbers.
+* logo-name = `linuxmint-logo2-name-COLOR.svg`: created using manual kerning and precise alignments, and the Ubuntu font got converted to vectors for guaranteed universality. But the editable text is still there, on a separate invisible layer in Inkscape.
 
 ## Color
 The official color is yet to be determined, as far as I know. Well, not exactly. Clem once said he wants to keep a 90° hue (HSL color representation). That's a yellow-green. Saturation and brightness are still to be determined. Take note that in parallel with that, the colors of the Mint-Y theme are also to be redefined, as of spring 2021. And that includes the Mint green. But the logo does not have to get the exact same color as the Mint-Y theme. The logo color could be more vibrant, having some bright color that stands out. But i am having troubles with this official 90° hue, this yellow-green. This color is so bright, it needs to be heavily subdued, and then i don't like it. So i went totally off-track and suggested my own color(s) here. You can easily change it in Inkscape, anyway.
