@@ -1,6 +1,6 @@
 ![Logo-name](linuxmint-logo2-name-55D52A.png)
 
-## The official LinuxMint logo subtly redesigned with a few pixels of difference
+### The official LinuxMint logo subtly redesigned with a few pixels of difference
 
 ![Logos](preview-55D52A.png)
 
