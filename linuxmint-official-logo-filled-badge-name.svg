@@ -13,7 +13,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (1.0.2+r75+1)"
-   sodipodi:docname="linuxmint--official-logo-filled-badge-name.svg">
+   sodipodi:docname="linuxmint-official-logo-filled-badge-name.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -21,10 +21,10 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="621.5"
+     inkscape:zoom="0.8202381"
+     inkscape:cx="821.71263"
      inkscape:cy="176"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-0"
@@ -94,7 +94,7 @@
            cy="374.61108"
            cx="170.74445"
            id="path1374-6"
-           style="opacity:1;fill:#86be43;fill-opacity:1;stroke:none;stroke-width:22.4609;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="opacity:1;fill:#80bf40;fill-opacity:1;stroke:none;stroke-width:22.4609;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <path
            inkscape:connector-curvature="0"
            id="path4193"
@@ -108,39 +108,39 @@
          transform="matrix(1.2929413,0,0,1.2929413,-92.911672,89.790119)">
         <path
            d="m 477.82499,279.20001 v 18.9 h -93.825 v -155.925 h 21.825 v 137.025 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;text-anchor:start;fill:#86be43;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;text-anchor:start;fill:#80bf40;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
            id="path900" />
         <path
            d="m 514.34979,298.10001 h -20.925 v -117 h 20.925 z m -10.575,-138.15 q -5.625,0 -9.675,-3.6 -3.825,-3.825 -3.825,-10.125 0,-6.3 3.825,-9.9 4.05,-3.825 9.675,-3.825 5.625,0 9.45,3.825 4.05,3.6 4.05,9.9 0,6.3 -4.05,10.125 -3.825,3.6 -9.45,3.6 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;text-anchor:start;fill:#86be43;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;text-anchor:start;fill:#80bf40;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
            id="path902" />
         <path
            d="m 544.34943,184.47501 q 7.2,-1.8 19.125,-3.825 11.925,-2.025 27.45,-2.025 13.95,0 23.175,4.05 9.225,3.825 14.625,11.025 5.625,6.975 7.875,16.875 2.25,9.9 2.25,21.825 v 65.7 h -20.925 v -61.2 q 0,-10.8 -1.575,-18.45 -1.35,-7.65 -4.725,-12.375 -3.375,-4.725 -9,-6.75 -5.625,-2.25 -13.95,-2.25 -3.375,0 -6.975,0.225 -3.6,0.225 -6.975,0.675 -3.15,0.225 -5.85,0.675 -2.475,0.45 -3.6,0.675 v 98.775 h -20.925 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;text-anchor:start;fill:#86be43;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;text-anchor:start;fill:#80bf40;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
            id="path904" />
         <path
            d="m 758.6493,294.72501 q -7.2,1.8 -19.125,3.825 -11.7,2.025 -27.225,2.025 -13.5,0 -22.725,-3.825 -9.225,-4.05 -14.85,-11.25 -5.625,-7.2 -8.1,-16.875 -2.475,-9.9 -2.475,-21.825 v -65.7 h 20.925 v 61.2 q 0,21.375 6.75,30.6 6.75,9.225 22.725,9.225 3.375,0 6.975,-0.225 3.6,-0.225 6.75,-0.45 3.15,-0.45 5.625,-0.675 2.7,-0.45 3.825,-0.9 v -98.775 h 20.925 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;text-anchor:start;fill:#86be43;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;text-anchor:start;fill:#80bf40;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
            id="path906" />
         <path
            d="m 857.62417,298.10001 q -2.475,-4.95 -6.075,-11.025 -3.6,-6.075 -7.875,-12.375 -4.275,-6.525 -8.775,-12.825 -4.5,-6.3 -8.775,-11.925 -4.275,5.625 -8.775,12.15 -4.5,6.3 -8.775,12.825 -4.05,6.3 -7.65,12.375 -3.6,6.075 -6.075,10.8 h -21.6 q 7.875,-15.3 18.675,-31.05 11.025,-15.975 21.825,-30.375 l -38.7,-55.575 h 23.625 l 27.9,40.95 28.125,-40.95 h 22.275 l -37.8,54.225 q 10.8,14.625 22.05,31.05 11.475,16.2 19.35,31.725 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;text-anchor:start;fill:#86be43;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;text-anchor:start;fill:#80bf40;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
            id="path908" />
         <path
            d="m 967.94911,276.50001 q -2.25,-5.4 -6.075,-13.725 -3.6,-8.325 -7.875,-18 -4.275,-9.675 -9.225,-19.8 -4.725,-10.35 -9,-19.35 -4.275,-9.225 -8.1,-16.425 -3.6,-7.2 -5.85,-11.025 -2.475,26.55 -4.05,57.6 -1.575,30.825 -2.7,62.325 h -21.375 q 0.9,-20.25 2.025,-40.725 1.125,-20.7 2.475,-40.5 1.575,-20.025 3.15,-38.925 1.8,-18.9 3.825,-35.775 h 19.125 q 6.075,9.9 13.05,23.4 6.975,13.5 13.95,28.35 6.975,14.625 13.5,29.475 6.525,14.625 11.925,26.775 5.4,-12.15 11.925,-26.775 6.525,-14.85 13.49999,-29.475 6.975,-14.85 13.95,-28.35 6.975,-13.5 13.05,-23.4 h 19.125 q 7.65,75.375 11.475,155.925 h -21.375 q -1.125,-31.5 -2.7,-62.325 -1.575,-31.05 -4.05,-57.6 -2.25,3.825 -6.075,11.025 -3.6,7.2 -7.875,16.425 -4.275,9 -9.225,19.35 -4.725,10.125 -8.99999,19.8 -4.275,9.675 -8.1,18 -3.6,8.325 -5.85,13.725 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;text-anchor:start;fill:#86be43;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;text-anchor:start;fill:#80bf40;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
            id="path910" />
         <path
            d="m 1107.5237,298.10001 h -20.925 v -117 h 20.925 z m -10.575,-138.15 q -5.625,0 -9.675,-3.6 -3.825,-3.825 -3.825,-10.125 0,-6.3 3.825,-9.9 4.05,-3.825 9.675,-3.825 5.625,0 9.45,3.825 4.05,3.6 4.05,9.9 0,6.3 -4.05,10.125 -3.825,3.6 -9.45,3.6 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;text-anchor:start;fill:#86be43;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;text-anchor:start;fill:#80bf40;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
            id="path912" />
         <path
            d="m 1137.5233,184.47501 q 7.2,-1.8 19.125,-3.825 11.925,-2.025 27.45,-2.025 13.95,0 23.175,4.05 9.225,3.825 14.625,11.025 5.625,6.975 7.875,16.875 2.25,9.9 2.25,21.825 v 65.7 h -20.925 v -61.2 q 0,-10.8 -1.575,-18.45 -1.35,-7.65 -4.725,-12.375 -3.375,-4.725 -9,-6.75 -5.625,-2.25 -13.95,-2.25 -3.375,0 -6.975,0.225 -3.6,0.225 -6.975,0.675 -3.15,0.225 -5.85,0.675 -2.475,0.45 -3.6,0.675 v 98.775 h -20.925 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;text-anchor:start;fill:#86be43;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;text-anchor:start;fill:#80bf40;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
            id="path914" />
         <path
            d="m 1279.2482,181.10001 h 44.325 v 17.55 h -44.325 v 54 q 0,8.775 1.35,14.625 1.35,5.625 4.05,9 2.7,3.15 6.75,4.5 4.05,1.35 9.45,1.35 9.45,0 15.075,-2.025 5.85,-2.25 8.1,-3.15 l 4.05,17.325 q -3.15,1.575 -11.025,3.825 -7.875,2.475 -18,2.475 -11.925,0 -19.8,-2.925 -7.65,-3.15 -12.375,-9.225 -4.725,-6.075 -6.75,-14.85 -1.8,-9 -1.8,-20.7 v -104.4 l 20.925,-3.6 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;text-anchor:start;fill:#86be43;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;text-anchor:start;fill:#80bf40;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
            id="path916" />
       </g>
     </g>
