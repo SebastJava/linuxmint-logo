@@ -24,7 +24,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.80952381"
-     inkscape:cx="840"
+     inkscape:cx="923.52941"
      inkscape:cy="176"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-0"
@@ -44,7 +44,7 @@
      guidecolor="#808080"
      guideopacity="0.25098039"
      inkscape:lockguides="true"
-     showguides="true"
+     showguides="false"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true">
     <sodipodi:guide
@@ -84,7 +84,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -104,7 +104,7 @@
            cy="374.61108"
            cx="170.74445"
            id="path1374-6"
-           style="opacity:1;fill:#80bf40;fill-opacity:1;stroke:none;stroke-width:22.4609;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="opacity:1;fill:#86be43;fill-opacity:1;stroke:none;stroke-width:22.4609;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <path
            inkscape:connector-curvature="0"
            id="path4193"
@@ -113,45 +113,45 @@
       </g>
       <g
          aria-label="LinuxMint"
-         transform="matrix(1.2977635,0,0,1.2977635,9.0576755,202.9752)"
-         id="text929"
-         style="font-size:225px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;letter-spacing:-10px;text-anchor:middle;display:inline;fill:#80bf40;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none">
+         transform="matrix(1.2977635,0,0,1.2977635,9.0576621,202.97521)"
+         id="text33"
+         style="font-size:225px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;letter-spacing:-8px;text-anchor:middle;display:inline;fill:#86be43;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none">
         <path
            d="M 304,210 V 54.75 h 18.9 V 192.9 h 75.6 V 210 Z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;font-family:Oxanium;-inkscape-font-specification:Oxanium;text-align:start;text-anchor:start;fill:#80bf40;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
-           id="path933" />
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;font-family:Oxanium;-inkscape-font-specification:Oxanium;text-align:start;text-anchor:start;fill:#86be43;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path37" />
         <path
-           d="m 410.99966,71.175 v -21.15 h 19.8 v 21.15 z m 0.9,138.825 V 93 h 18 v 117 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;font-family:Oxanium;-inkscape-font-specification:Oxanium;text-align:start;text-anchor:start;fill:#80bf40;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
-           id="path935" />
+           d="m 412.99966,71.175 v -21.15 h 19.8 v 21.15 z m 0.9,138.825 V 93 h 18 v 117 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;font-family:Oxanium;-inkscape-font-specification:Oxanium;text-align:start;text-anchor:start;fill:#86be43;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path39" />
         <path
-           d="M 455.8996,210 V 93 h 63 q 33.75,0 33.75,33.75 V 210 h -18 v -85.5 q 0,-15.75 -15.75,-15.75 h -45 V 210 Z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;font-family:Oxanium;-inkscape-font-specification:Oxanium;text-align:start;text-anchor:start;fill:#80bf40;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
-           id="path937" />
+           d="M 459.8996,210 V 93 h 63 q 33.75,0 33.75,33.75 V 210 h -18 v -85.5 q 0,-15.75 -15.75,-15.75 h -45 V 210 Z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;font-family:Oxanium;-inkscape-font-specification:Oxanium;text-align:start;text-anchor:start;fill:#86be43;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path41" />
         <path
-           d="M 576.84927,176.25 V 93 h 18 v 85.5 q 0,15.75 15.75,15.75 h 45 V 93 h 18 v 117 h -63 q -33.75,0 -33.75,-33.75 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;font-family:Oxanium;-inkscape-font-specification:Oxanium;text-align:start;text-anchor:start;fill:#80bf40;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
-           id="path939" />
+           d="M 582.84927,176.25 V 93 h 18 v 85.5 q 0,15.75 15.75,15.75 h 45 V 93 h 18 v 117 h -63 q -33.75,0 -33.75,-33.75 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;font-family:Oxanium;-inkscape-font-specification:Oxanium;text-align:start;text-anchor:start;fill:#86be43;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path43" />
         <path
-           d="m 688.34894,206.625 41.4,-56.25 -39.825,-54 1.575,-3.375 h 16.65 l 31.95,44.325 31.95,-44.325 h 16.65 l 1.575,3.375 -39.6,54 41.175,56.25 -1.575,3.375 h -16.65 l -33.525,-46.575 -33.525,46.575 h -16.65 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;font-family:Oxanium;-inkscape-font-specification:Oxanium;text-align:start;text-anchor:start;fill:#80bf40;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
-           id="path941" />
+           d="m 696.34894,206.625 41.4,-56.25 -39.825,-54 1.575,-3.375 h 16.65 l 31.95,44.325 31.95,-44.325 h 16.65 l 1.575,3.375 -39.6,54 41.175,56.25 -1.575,3.375 h -16.65 l -33.525,-46.575 -33.525,46.575 h -16.65 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;font-family:Oxanium;-inkscape-font-specification:Oxanium;text-align:start;text-anchor:start;fill:#86be43;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path45" />
         <path
-           d="M 808.84863,210 V 54.75 h 24.975 l 51.975,110.25 51.75,-110.25 h 24.975 V 210 h -18.9 V 83.1 l -49.05,104.4 h -17.775 l -49.05,-104.4 V 210 Z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;font-family:Oxanium;-inkscape-font-specification:Oxanium;text-align:start;text-anchor:start;fill:#80bf40;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
-           id="path943" />
+           d="M 818.84863,210 V 54.75 h 24.975 l 51.975,110.25 51.75,-110.25 h 24.975 V 210 h -18.9 V 83.1 l -49.05,104.4 h -17.775 l -49.05,-104.4 V 210 Z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;font-family:Oxanium;-inkscape-font-specification:Oxanium;text-align:start;text-anchor:start;fill:#86be43;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path47" />
         <path
-           d="m 989.87338,71.175 v -21.15 h 19.80002 v 21.15 z m 0.9,138.825 V 93 h 18.00002 v 117 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;font-family:Oxanium;-inkscape-font-specification:Oxanium;text-align:start;text-anchor:start;fill:#80bf40;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
-           id="path945" />
+           d="m 1001.8734,71.175 v -21.15 h 19.8 v 21.15 z m 0.9,138.825 V 93 h 18 v 117 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;font-family:Oxanium;-inkscape-font-specification:Oxanium;text-align:start;text-anchor:start;fill:#86be43;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path49" />
         <path
-           d="M 1034.7733,210 V 93 h 63 q 33.75,0 33.75,33.75 V 210 h -18 v -85.5 q 0,-15.75 -15.75,-15.75 h -45 V 210 Z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;font-family:Oxanium;-inkscape-font-specification:Oxanium;text-align:start;text-anchor:start;fill:#80bf40;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
-           id="path947" />
+           d="M 1048.7733,210 V 93 h 63 q 33.75,0 33.75,33.75 V 210 h -18 v -85.5 q 0,-15.75 -15.75,-15.75 h -45 V 210 Z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;font-family:Oxanium;-inkscape-font-specification:Oxanium;text-align:start;text-anchor:start;fill:#86be43;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path51" />
         <path
-           d="M 1155.723,176.25 V 54.75 h 18 V 93 h 42.75 v 15.75 h -42.75 v 69.75 q 0,15.75 15.75,15.75 h 29.25 v 9 l -9,6.75 h -20.25 q -33.75,0 -33.75,-33.75 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;font-family:Oxanium;-inkscape-font-specification:Oxanium;text-align:start;text-anchor:start;fill:#80bf40;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
-           id="path949" />
+           d="M 1171.723,176.25 V 54.75 h 18 V 93 h 42.75 v 15.75 h -42.75 v 69.75 q 0,15.75 15.75,15.75 h 29.25 v 9 l -9,6.75 h -20.25 q -33.75,0 -33.75,-33.75 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;font-family:Oxanium;-inkscape-font-specification:Oxanium;text-align:start;text-anchor:start;fill:#86be43;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path53" />
       </g>
     </g>
   </g>
