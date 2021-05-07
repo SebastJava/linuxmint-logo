@@ -13,8 +13,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="1.0.2 (1.0.2+r75+1)"
-   sodipodi:docname="social-#55D52A.svg"
-   inkscape:export-filename="/home/sebastien/linuxmint-logo/social-#55D52A.png"
+   sodipodi:docname="social-#00E000.svg"
+   inkscape:export-filename="/home/sebastien/linuxmint-logo/social-#00E000.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <title
@@ -133,7 +133,7 @@
          r="128" />
       <path
          id="path833"
-         style="opacity:1;fill:#55d52a;stroke:none;stroke-width:0;stroke-linecap:round"
+         style="opacity:1;fill:#00e000;stroke:none;stroke-width:0;stroke-linecap:round"
          d="M 127.67578,0 A 128,128 0 0 0 63,17.732422 V 158 c 0,14.51339 11.48661,26 26,26 h 78 c 14.51339,0 26,-11.48661 26,-26 V 93 c 0,-7.33368 -5.66632,-13 -13,-13 -7.33368,0 -13,5.66632 -13,13 v 65 H 141 V 93 c 0,-7.33368 -5.66632,-13 -13,-13 -7.33368,0 -13,5.66632 -13,13 v 65 H 89 V 93 c 0,-21.38512 17.61488,-39 39,-39 9.99043,0 19.06681,3.949393 26,10.226562 C 160.93319,57.949393 170.00957,54 180,54 c 21.38512,0 39,17.61488 39,39 v 65 c 0,28.56483 -23.43517,52 -52,52 H 89 C 60.43517,210 37,186.56483 37,158 V 37.982422 A 128,128 0 0 0 0,128 128,128 0 0 0 128,256 128,128 0 0 0 256,128 128,128 0 0 0 128,0 128,128 0 0 0 127.67578,0 Z"
          transform="translate(80,88)" />
     </g>

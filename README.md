@@ -1,8 +1,8 @@
-![Logo-name](linuxmint-logo2-name-55D52A.png)
+![Logo-name](linuxmint-logo2-name-00E000.png)
 
 ### The official LinuxMint logo subtly redesigned with a few pixels of difference
 
-![Logos](preview-55D52A.png)
+![Logos](preview-00E000.png)
 
 ## Download
 [Download ZIP here](https://github.com/SebastJava/linuxmint-logo/archive/refs/heads/master.zip) (OR click on top-right green button "Code" and then click on "Download ZIP".)
