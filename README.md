@@ -1,4 +1,4 @@
-![Logo-name](linuxmint-logo2-name-00E000.png)
+![Logo-name](linuxmint-logo2-name-oxa-00E000.png)
 
 ### The official LinuxMint logo subtly redesigned with a few pixels of difference
 

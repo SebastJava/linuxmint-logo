@@ -265,7 +265,7 @@
        id="g1478"
        transform="translate(-190.5,95.250002)">
       <rect
-         style="fill:#00e000;fill-opacity:1;stroke-width:0.244956;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:#808080;fill-opacity:1;stroke-width:0.244956;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect1448"
          width="95.25"
          height="95.25"
@@ -298,14 +298,14 @@
              id="tspan1363"
              x="238.125"
              y="94.191681"
-             style="font-size:4.7625px;fill:#808080;fill-opacity:1;stroke-width:0.264583">linuxmint-logo2-badge-000-inv.svg</tspan></text>
+             style="font-size:4.7625px;fill:#000000;fill-opacity:1;stroke-width:0.264583">linuxmint-logo2-badge-000-inv.svg</tspan></text>
       </g>
     </g>
     <g
        id="g1496"
        transform="translate(95.25)">
       <rect
-         style="fill:#00e000;fill-opacity:1;stroke-width:0.244956;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:#808080;fill-opacity:1;stroke-width:0.244956;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect1450"
          width="95.25"
          height="95.25"
@@ -335,9 +335,9 @@
            id="text1369"><tspan
              sodipodi:role="line"
              id="tspan1367"
-             x="47.625"
+             x="47.624996"
              y="189.44165"
-             style="font-size:4.7625px;fill:#808080;fill-opacity:1;stroke-width:0.264583">linuxmint-logo2-badge-FFF-00E000.svg</tspan></text>
+             style="font-size:4.7625px;fill:#000000;fill-opacity:1;stroke-width:0.264583">linuxmint-logo2-badge-FFF-00E000.svg</tspan></text>
       </g>
     </g>
     <g
@@ -373,7 +373,7 @@
        id="g1524"
        transform="translate(95.25,-95.249998)">
       <rect
-         style="fill:#00e000;fill-opacity:1;stroke-width:0.244956;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:#808080;fill-opacity:1;stroke-width:0.244956;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect1458"
          width="95.25"
          height="95.25"
@@ -395,7 +395,7 @@
              id="tspan1383"
              x="142.875"
              y="284.69165"
-             style="font-size:4.7625px;fill:#808080;fill-opacity:1;stroke-width:0.264583">linuxmint-logo2-simple-0marg-FFF.svg</tspan></text>
+             style="font-size:4.7625px;fill:#000000;fill-opacity:1;stroke-width:0.264583">linuxmint-logo2-simple-0marg-FFF.svg</tspan></text>
       </g>
     </g>
     <rect
