@@ -5,29 +5,62 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:version="1.0.2 (1.0.2+r75+1)"
    id="svg8"
    version="1.1"
-   viewBox="0 0 285.74999 285.75"
-   height="1080"
+   viewBox="0 0 285.74999 381"
+   height="1440"
    width="1080"
-   sodipodi:docname="preview-00E000.svg"
-   inkscape:export-filename="/home/sebastien/linuxmint-logo/preview-00E000.png"
+   sodipodi:docname="preview.svg"
+   inkscape:export-filename="/home/sebastien/linuxmint-logo/preview.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
-     id="defs2" />
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1281">
+      <stop
+         style="stop-color:#99e5ff;stop-opacity:1"
+         offset="0"
+         id="stop1277" />
+      <stop
+         style="stop-color:#80ff80;stop-opacity:1"
+         offset="1"
+         id="stop1279" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1281"
+       id="linearGradient1127"
+       x1="0.13229166"
+       y1="-95.117706"
+       x2="0"
+       y2="0"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1281"
+       id="linearGradient1285"
+       gradientUnits="userSpaceOnUse"
+       x1="0.13229166"
+       y1="-95.117706"
+       x2="0"
+       y2="0"
+       gradientTransform="translate(0,190.5)" />
+  </defs>
   <sodipodi:namedview
      units="px"
      showgrid="false"
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="540"
-     inkscape:cx="824.0671"
-     inkscape:zoom="0.79722222"
+     inkscape:cy="720"
+     inkscape:cx="564.57338"
+     inkscape:zoom="0.61041667"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      borderopacity="1.0"
@@ -41,10 +74,17 @@
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-text-baseline="true"
-     showguides="false">
+     showguides="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:showpageshadow="false">
     <inkscape:grid
        type="xygrid"
-       id="grid830" />
+       id="grid830"
+       originx="3.0079641e-14"
+       originy="95.250003" />
     <sodipodi:guide
        position="95.249998,285.75"
        orientation="1080,0"
@@ -96,19 +136,41 @@
   <g
      id="layer1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1">
+     inkscape:label="Layer 1"
+     transform="translate(0,95.25)">
+    <rect
+       style="fill:url(#linearGradient1285);fill-opacity:1;stroke-width:0.244955;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1283"
+       width="285.75"
+       height="95.25"
+       x="0"
+       y="95.25" />
+    <rect
+       style="fill:url(#linearGradient1127);fill-opacity:1;stroke-width:0.244955;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect78"
+       width="285.75"
+       height="95.25"
+       x="0"
+       y="-95.25" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.244955;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1265"
+       width="285.75"
+       height="95.25"
+       x="0"
+       y="-1.6666667e-06" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.244955;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1273"
+       width="285.75"
+       height="95.25"
+       x="0"
+       y="190.5" />
     <g
-       id="g1510"
-       transform="translate(-190.5,95.249999)">
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke-width:0.244956;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
-         id="rect1454"
-         width="95.25"
-         height="95.25"
-         x="190.5"
-         y="95.25" />
+       id="g1251">
       <g
-         id="g1427">
+         id="g1427"
+         transform="translate(-190.5,95.249999)">
         <path
            style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000"
            d="m 208.49166,113.24166 v 42.33333 c 0,9.30188 7.63145,16.93333 16.93333,16.93333 h 25.4 c 9.30188,0 16.93333,-7.63145 16.93333,-16.93333 v -21.16667 c 0,-6.96387 -5.73612,-12.7 -12.7,-12.7 -3.25329,0 -6.20893,1.28593 -8.46666,3.33003 -2.25774,-2.0441 -5.21338,-3.33003 -8.46667,-3.33003 -6.96387,0 -12.7,5.73613 -12.7,12.7 v 21.16667 h 8.46667 v -21.16667 c 0,-2.38814 1.84518,-4.23333 4.23333,-4.23333 2.38815,0 4.23333,1.84519 4.23333,4.23333 v 21.16667 h 8.46667 v -21.16667 c 0,-2.38814 1.84519,-4.23333 4.23333,-4.23333 2.38815,0 4.23334,1.84519 4.23334,4.23333 v 21.16667 c 0,4.72615 -3.74052,8.46667 -8.46667,8.46667 h -25.4 c -4.72615,0 -8.46667,-3.74052 -8.46667,-8.46667 v -42.33333 z"
@@ -125,19 +187,9 @@
              y="189.44165"
              style="font-size:4.7625px;fill:#808080;fill-opacity:1;stroke-width:0.264583">linuxmint-logo2-simple-0marg-000.svg</tspan></text>
       </g>
-    </g>
-    <g
-       id="g1517"
-       transform="translate(95.249998)">
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke-width:0.244956;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
-         id="rect1456"
-         width="95.25"
-         height="95.25"
-         x="0"
-         y="190.5" />
       <g
-         id="g1432">
+         id="g1432"
+         transform="translate(95.249998)">
         <path
            style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#00e000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000"
            d="m 17.991666,208.49166 v 42.33333 c 0,9.30188 7.63145,16.93333 16.93333,16.93333 h 25.4 c 9.30188,0 16.93333,-7.63145 16.93333,-16.93333 v -21.16667 c 0,-6.96387 -5.73612,-12.7 -12.7,-12.7 -3.25329,0 -6.20893,1.28593 -8.46666,3.33003 -2.25774,-2.0441 -5.21338,-3.33003 -8.46667,-3.33003 -6.96387,0 -12.7,5.73613 -12.7,12.7 v 21.16667 h 8.46667 v -21.16667 c 0,-2.38814 1.84518,-4.23333 4.23333,-4.23333 2.38815,0 4.23333,1.84519 4.23333,4.23333 v 21.16667 h 8.46667 v -21.16667 c 0,-2.38814 1.84519,-4.23333 4.23333,-4.23333 2.38815,0 4.23334,1.84519 4.23334,4.23333 v 21.16667 c 0,4.72615 -3.74052,8.46667 -8.46667,8.46667 h -25.4 c -4.72615,0 -8.46667,-3.74052 -8.46667,-8.46667 v -42.33333 z"
@@ -154,16 +206,6 @@
              y="284.69165"
              style="font-size:4.7625px;fill:#808080;fill-opacity:1;stroke-width:0.264583">linuxmint-logo2-simple-0marg-00E000.svg</tspan></text>
       </g>
-    </g>
-    <g
-       id="g1531">
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke-width:0.244956;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
-         id="rect1460"
-         width="95.25"
-         height="95.25"
-         x="190.5"
-         y="190.5" />
       <g
          id="g1442">
         <path
@@ -184,14 +226,7 @@
       </g>
     </g>
     <g
-       id="g1469">
-      <rect
-         style="fill:#99ff99;fill-opacity:1;stroke-width:0.244956;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
-         id="rect1444"
-         width="95.25"
-         height="95.25"
-         x="0"
-         y="0" />
+       id="g1185">
       <g
          id="g1396">
         <g
@@ -221,16 +256,6 @@
              y="94.191681"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#808080;fill-opacity:1;stroke-width:0.264583">linuxmint-logo2-badge-000.svg</tspan></text>
       </g>
-    </g>
-    <g
-       id="g1487">
-      <rect
-         style="fill:#99ff99;fill-opacity:1;stroke-width:0.244956;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
-         id="rect1446"
-         width="95.25"
-         height="95.25"
-         x="95.25"
-         y="0" />
       <g
          id="g1403">
         <g
@@ -260,19 +285,31 @@
              y="94.191681"
              style="font-size:4.7625px;fill:#808080;fill-opacity:1;stroke-width:0.264583">linuxmint-logo2-badge-00E000.svg</tspan></text>
       </g>
+      <g
+         id="g1422"
+         transform="translate(95.249997,-95.250002)">
+        <path
+           id="path833-2"
+           style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round"
+           d="m 142.78922,109.00836 a 33.866666,33.866666 0 0 0 -17.11214,4.6917 v 37.11246 c 0,3.84 3.03917,6.87917 6.87917,6.87917 h 20.6375 c 3.84,0 6.87917,-3.03917 6.87917,-6.87917 v -17.19791 c 0,-1.94037 -1.49922,-3.43959 -3.43959,-3.43959 -1.94037,0 -3.43958,1.49922 -3.43958,3.43959 v 17.19791 h -6.87917 v -17.19791 c 0,-1.94037 -1.49921,-3.43959 -3.43958,-3.43959 -1.94037,0 -3.43958,1.49922 -3.43958,3.43959 v 17.19791 h -6.87917 v -17.19791 c 0,-5.65815 4.6606,-10.31875 10.31875,-10.31875 2.6433,0 5.04476,1.04494 6.87917,2.70577 1.8344,-1.66083 4.23586,-2.70577 6.87916,-2.70577 5.65815,0 10.31875,4.6606 10.31875,10.31875 v 17.19791 c 0,7.55778 -6.20055,13.75834 -13.75833,13.75834 h -20.6375 c -7.55778,0 -13.75833,-6.20056 -13.75833,-13.75834 v -31.75465 a 33.866666,33.866666 0 0 0 -9.78959,23.81715 33.866666,33.866666 0 0 0 33.86667,33.86667 33.866666,33.866666 0 0 0 33.86667,-33.86667 33.866666,33.866666 0 0 0 -33.86667,-33.86666 33.866666,33.866666 0 0 0 -0.0858,0 z" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#808080;fill-opacity:1;stroke-width:0.264583;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+           x="142.875"
+           y="189.44165"
+           id="text1373"><tspan
+             sodipodi:role="line"
+             id="tspan1371"
+             x="142.875"
+             y="189.44165"
+             style="font-size:4.7625px;fill:#808080;fill-opacity:1;stroke-width:0.264583">linuxmint-logo2-badge-symbolic.svg</tspan></text>
+      </g>
     </g>
     <g
-       id="g1478"
-       transform="translate(-190.5,95.250002)">
-      <rect
-         style="fill:#808080;fill-opacity:1;stroke-width:0.244956;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
-         id="rect1448"
-         width="95.25"
-         height="95.25"
-         x="190.5"
-         y="0" />
+       id="g1222">
       <g
-         id="g1410">
+         id="g1410"
+         transform="translate(-190.5,95.250002)">
         <g
            id="g2550"
            transform="matrix(0.26458333,0,0,0.26458333,183.09166,-9.5249728)">
@@ -298,21 +335,11 @@
              id="tspan1363"
              x="238.125"
              y="94.191681"
-             style="font-size:4.7625px;fill:#000000;fill-opacity:1;stroke-width:0.264583">linuxmint-logo2-badge-000-inv.svg</tspan></text>
+             style="font-size:4.7625px;fill:#808080;fill-opacity:1;stroke-width:0.264583">linuxmint-logo2-badge-FFF-000.svg</tspan></text>
       </g>
-    </g>
-    <g
-       id="g1496"
-       transform="translate(95.25)">
-      <rect
-         style="fill:#808080;fill-opacity:1;stroke-width:0.244956;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
-         id="rect1450"
-         width="95.25"
-         height="95.25"
-         x="0"
-         y="95.25" />
       <g
-         id="g1417">
+         id="g1417"
+         transform="translate(95.25)">
         <g
            id="g2546"
            transform="matrix(0.26458333,0,0,0.26458333,-7.4083333,85.725026)">
@@ -337,50 +364,11 @@
              id="tspan1367"
              x="47.624996"
              y="189.44165"
-             style="font-size:4.7625px;fill:#000000;fill-opacity:1;stroke-width:0.264583">linuxmint-logo2-badge-FFF-00E000.svg</tspan></text>
+             style="font-size:4.7625px;fill:#808080;fill-opacity:1;stroke-width:0.264583">linuxmint-logo2-badge-FFF-00E000.svg</tspan></text>
       </g>
-    </g>
-    <g
-       id="g1503"
-       transform="translate(95.249997,-95.250002)">
-      <rect
-         style="fill:#99ff99;fill-opacity:1;stroke-width:0.244956;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
-         id="rect1452"
-         width="95.25"
-         height="95.25"
-         x="95.25"
-         y="95.25" />
       <g
-         id="g1422">
-        <path
-           id="path833-2"
-           style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round"
-           d="m 142.78922,109.00836 a 33.866666,33.866666 0 0 0 -17.11214,4.6917 v 37.11246 c 0,3.84 3.03917,6.87917 6.87917,6.87917 h 20.6375 c 3.84,0 6.87917,-3.03917 6.87917,-6.87917 v -17.19791 c 0,-1.94037 -1.49922,-3.43959 -3.43959,-3.43959 -1.94037,0 -3.43958,1.49922 -3.43958,3.43959 v 17.19791 h -6.87917 v -17.19791 c 0,-1.94037 -1.49921,-3.43959 -3.43958,-3.43959 -1.94037,0 -3.43958,1.49922 -3.43958,3.43959 v 17.19791 h -6.87917 v -17.19791 c 0,-5.65815 4.6606,-10.31875 10.31875,-10.31875 2.6433,0 5.04476,1.04494 6.87917,2.70577 1.8344,-1.66083 4.23586,-2.70577 6.87916,-2.70577 5.65815,0 10.31875,4.6606 10.31875,10.31875 v 17.19791 c 0,7.55778 -6.20055,13.75834 -13.75833,13.75834 h -20.6375 c -7.55778,0 -13.75833,-6.20056 -13.75833,-13.75834 v -31.75465 a 33.866666,33.866666 0 0 0 -9.78959,23.81715 33.866666,33.866666 0 0 0 33.86667,33.86667 33.866666,33.866666 0 0 0 33.86667,-33.86667 33.866666,33.866666 0 0 0 -33.86667,-33.86666 33.866666,33.866666 0 0 0 -0.0858,0 z" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#808080;fill-opacity:1;stroke-width:0.264583;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
-           x="142.875"
-           y="189.44165"
-           id="text1373"><tspan
-             sodipodi:role="line"
-             id="tspan1371"
-             x="142.875"
-             y="189.44165"
-             style="font-size:4.7625px;fill:#808080;fill-opacity:1;stroke-width:0.264583">linuxmint-logo2-badge-symbolic.svg</tspan></text>
-      </g>
-    </g>
-    <g
-       id="g1524"
-       transform="translate(95.25,-95.249998)">
-      <rect
-         style="fill:#808080;fill-opacity:1;stroke-width:0.244956;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
-         id="rect1458"
-         width="95.25"
-         height="95.25"
-         x="95.25"
-         y="190.5" />
-      <g
-         id="g1437">
+         id="g1437"
+         transform="translate(95.25,-95.249998)">
         <path
            style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000"
            d="m 113.24166,208.49166 v 42.33332 c 0,9.30188 7.63145,16.93333 16.93333,16.93333 h 25.4 c 9.30188,0 16.93333,-7.63145 16.93333,-16.93333 v -21.16667 c 0,-6.96386 -5.73612,-12.69999 -12.7,-12.69999 -3.25329,0 -6.20893,1.28593 -8.46666,3.33003 -2.25774,-2.0441 -5.21338,-3.33003 -8.46667,-3.33003 -6.96387,0 -12.7,5.73613 -12.7,12.69999 v 21.16667 h 8.46667 v -21.16667 c 0,-2.38814 1.84518,-4.23333 4.23333,-4.23333 2.38815,0 4.23333,1.84519 4.23333,4.23333 v 21.16667 h 8.46667 v -21.16667 c 0,-2.38814 1.84519,-4.23333 4.23333,-4.23333 2.38815,0 4.23334,1.84519 4.23334,4.23333 v 21.16667 c 0,4.72615 -3.74052,8.46667 -8.46667,8.46667 h -25.4 c -4.72615,0 -8.46667,-3.74052 -8.46667,-8.46667 v -42.33332 z"
@@ -395,15 +383,63 @@
              id="tspan1383"
              x="142.875"
              y="284.69165"
-             style="font-size:4.7625px;fill:#000000;fill-opacity:1;stroke-width:0.264583">linuxmint-logo2-simple-0marg-FFF.svg</tspan></text>
+             style="font-size:4.7625px;fill:#808080;fill-opacity:1;stroke-width:0.264583">linuxmint-logo2-simple-0marg-FFF.svg</tspan></text>
       </g>
     </g>
     <rect
-       style="fill:none;stroke:#808080;stroke-width:0.26458333;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#808080;stroke-width:0.264583;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect79"
        width="285.48541"
-       height="285.48541"
+       height="380.73541"
        x="0.13229166"
-       y="0.1322915" />
+       y="-95.117706" />
+    <g
+       id="g1148">
+      <text
+         xml:space="preserve"
+         style="font-weight:300;font-size:4.7625px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:center;text-anchor:middle;fill:#808080;fill-opacity:1;stroke-width:0.264583;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+         x="47.625"
+         y="-1.0583171"
+         id="text88"><tspan
+           sodipodi:role="line"
+           id="tspan86"
+           x="47.625"
+           y="-1.0583171"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#808080;fill-opacity:1;stroke-width:0.264583">linuxmint-logo2-badge-000-clear.svg</tspan></text>
+      <path
+         id="path833-67"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round"
+         d="m 47.539215,-81.491638 a 33.866666,33.866666 0 0 0 -17.11213,4.691703 v 37.112465 c 0,3.84 3.03916,6.87916 6.87916,6.87916 h 20.6375 c 3.84,0 6.87917,-3.03916 6.87917,-6.87916 v -17.19792 c 0,-1.94037 -1.49921,-3.43958 -3.43958,-3.43958 -1.94037,0 -3.43959,1.49921 -3.43959,3.43958 v 17.19792 h -6.87916 v -17.19792 c 0,-1.94037 -1.49922,-3.43958 -3.43959,-3.43958 -1.94037,0 -3.43958,1.49921 -3.43958,3.43958 v 17.19792 h -6.87917 v -17.19792 c 0,-5.65814 4.66061,-10.318748 10.31875,-10.318748 2.6433,0 5.04476,1.044944 6.87917,2.705778 1.83441,-1.660834 4.23587,-2.705778 6.87917,-2.705778 5.65814,0 10.31875,4.660608 10.31875,10.318748 v 17.19792 c 0,7.55778 -6.20056,13.75833 -13.75834,13.75833 h -20.6375 c -7.55777,0 -13.758329,-6.20055 -13.758329,-13.75833 v -31.754653 a 33.866666,33.866666 0 0 0 -9.789583,23.817153 33.866666,33.866666 0 0 0 33.866662,33.86666 33.866666,33.866666 0 0 0 33.86667,-33.86666 33.866666,33.866666 0 0 0 -33.86667,-33.866668 33.866666,33.866666 0 0 0 -0.0858,0 z" />
+      <text
+         xml:space="preserve"
+         style="font-weight:300;font-size:4.7625px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:center;text-anchor:middle;fill:#808080;fill-opacity:1;stroke-width:0.264583;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+         x="142.87491"
+         y="-1.0583171"
+         id="text162"><tspan
+           sodipodi:role="line"
+           id="tspan160"
+           x="142.87491"
+           y="-1.0583171"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#808080;fill-opacity:1;stroke-width:0.264583">linuxmint-logo2-badge-00E000-clear.svg</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:300;font-size:4.7625px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:center;text-anchor:middle;fill:#808080;fill-opacity:1;stroke-width:0.264583;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+         x="238.12492"
+         y="-1.0583171"
+         id="text166"><tspan
+           sodipodi:role="line"
+           id="tspan164"
+           x="238.12492"
+           y="-1.0583171"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#808080;fill-opacity:1;stroke-width:0.264583">linuxmint-logo2-badge-FFF-clear.svg</tspan></text>
+      <path
+         id="path833-3"
+         style="fill:#00e000;stroke:none;stroke-width:0;stroke-linecap:round"
+         d="m 142.78921,-81.491638 a 33.866666,33.866666 0 0 0 -17.11213,4.691703 v 37.112463 c 0,3.840001 3.03916,6.879166 6.87916,6.879166 h 20.6375 c 3.84,0 6.87917,-3.039165 6.87917,-6.879166 v -17.197916 c 0,-1.94037 -1.49921,-3.439584 -3.43958,-3.439584 -1.94037,0 -3.43959,1.499214 -3.43959,3.439584 v 17.197916 h -6.87916 v -17.197916 c 0,-1.94037 -1.49922,-3.439584 -3.43959,-3.439584 -1.94037,0 -3.43958,1.499214 -3.43958,3.439584 v 17.197916 h -6.87917 v -17.197916 c 0,-5.658147 4.66061,-10.31875 10.31875,-10.31875 2.6433,0 5.04476,1.044943 6.87917,2.705777 1.83441,-1.660834 4.23587,-2.705777 6.87917,-2.705777 5.65814,0 10.31875,4.660603 10.31875,10.31875 v 17.197916 c 0,7.557778 -6.20056,13.758333 -13.75834,13.758333 h -20.6375 c -7.55777,0 -13.75833,-6.200555 -13.75833,-13.758333 v -31.754651 a 33.866666,33.866666 0 0 0 -9.78958,23.817151 33.866666,33.866666 0 0 0 33.86666,33.866666 33.866666,33.866666 0 0 0 33.86667,-33.866666 33.866666,33.866666 0 0 0 -33.86667,-33.866666 33.866666,33.866666 0 0 0 -0.0858,0 z" />
+      <path
+         id="path833-62"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round"
+         d="m 238.03921,-81.491638 a 33.866666,33.866666 0 0 0 -17.11213,4.691703 v 37.112463 c 0,3.840001 3.03916,6.879166 6.87916,6.879166 h 20.6375 c 3.84,0 6.87917,-3.039165 6.87917,-6.879166 v -17.197916 c 0,-1.94037 -1.49921,-3.439584 -3.43958,-3.439584 -1.94037,0 -3.43959,1.499214 -3.43959,3.439584 v 17.197916 h -6.87916 v -17.197916 c 0,-1.94037 -1.49922,-3.439584 -3.43959,-3.439584 -1.94037,0 -3.43958,1.499214 -3.43958,3.439584 v 17.197916 h -6.87917 v -17.197916 c 0,-5.658147 4.66061,-10.31875 10.31875,-10.31875 2.6433,0 5.04476,1.044943 6.87917,2.705777 1.83441,-1.660834 4.23587,-2.705777 6.87917,-2.705777 5.65814,0 10.31875,4.660603 10.31875,10.31875 v 17.197916 c 0,7.557778 -6.20056,13.758333 -13.75834,13.758333 h -20.6375 c -7.55777,0 -13.75833,-6.200555 -13.75833,-13.758333 v -31.754651 a 33.866666,33.866666 0 0 0 -9.78958,23.817151 33.866666,33.866666 0 0 0 33.86666,33.866666 33.866666,33.866666 0 0 0 33.86667,-33.866666 33.866666,33.866666 0 0 0 -33.86667,-33.866666 33.866666,33.866666 0 0 0 -0.0858,0 z" />
+    </g>
   </g>
 </svg>
