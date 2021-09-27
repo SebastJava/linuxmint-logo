@@ -1,3 +1,0 @@
-![preview image](Logo-Simple-Y-000.png)
-
-Here is one of my new versions that have not received official approval...
