@@ -1,5 +1,7 @@
 # LinuxMint logo and brand resources (unofficial)
 
+![preview](arobas-name-grey-2X.png)
+
 ![preview](preview-arobas-1.png)
 
 ![preview](preview-arobas-name.png)
