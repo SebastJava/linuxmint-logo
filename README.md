@@ -20,6 +20,18 @@ Sorry for being so rude, but here I am saying what I kept to myself since Octobe
 
 So, i tried to create a new one. I had one that i thought was pretty good, back in 2018, but it never made it to the official repositories. So, i kept searching. I have created a few good logos. This one here on the front page, and a few other ones that you can find in the sub-directories. But the LinuxMint team will not take them, because they already have about a dozen of logos available on https://github.com/linuxmint/brand-logo. But this is precisely one of the main disputes I have with the Mint team. In my humble opinion, there should be just one logo, with a few similar variants for colors and with or without the full name. Just one logo. Not twelve. Just one logo, but preferably, a good one.
 
+### History
+
+What follows is my version of the story, of course. And i am trying to make it a short story.
+
+A competition was held to define the Linux Mint logo. The logo proposed by Carlos Porto won the vote. That was back in year 2007. Ten years later, I installed Linux Mint on my little Netbook. I didn't like the logo that appeared on my screen. There was too many details and I didn't find much sense in it.
+
+I set out to redraw this logo from scratch, on a blank page, forgetting all those annoying details. I've searched the web and saw others have tried it before me. So I have the idea to share my creation. I'm afraid I won't be accepted so I set out to redo a logo similar to the official logo, but in a simple and flat version. I present this on the LM forums: [VOTE! Mint-Y-LOGO... A New Version Of The Linux Mint Logo!](Https://forums.linuxmint.com/viewtopic.php?f=19&t=280401)
+
+In the comments received, among those that are positive, Reaccion Raul suggested a simpler background, if any, or just the "Lm". And then Joan_2018 suggested doing that in black and white, without colors. And then, later, Clem presented us with a simplified logo with different backgrounds, mostly circular background shapes. So this logo is the result of a collective work, in my humble opinion. I'm glad Clem went further than me, completely forgetting the old background. I approve and continue on this path, adding my personal touch.
+
+Now, here, you are looking at a late reshuffle. Everything has been completely reworked during the month of April 2021, starting from my original drawing from October 2018. And now we are in August 2021, and i did another reshuffle, again. This time i am trying to get an official approval. I should go step by step: some possible little changes in the design, and later maybe some radical color change. But i am not trying any revolutionary new design. I tried before and it did not work. And we are all tired.
+
 ### Color
 
 I sincerely, really don't like the current official Mint logo color: #86BE43. This 87° hue is a yellow-green. This could be nice, when pure, but this is one of the brightest colors. So, it must be heavily subdued. And then it doesn't look nice at all. This #86BE43 is some kind of grayish yellowish green. Some kind of khaki green. The LinuxMint team wants to avoid pure green. Or forest green. I understand and agree with that. But then, I suggest moving into much higher hues, such as over 160°. I found this "Mint Leaf" color on https://flatuicolors.com/palette/us. This: #00B894. That's much better. I still keep searching for new colors.
