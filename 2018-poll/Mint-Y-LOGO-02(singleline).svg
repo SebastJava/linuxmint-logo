@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="480"
+   height="480"
+   viewBox="0 0 480 480"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Mint-Y-LOGO-02(singleline).svg"
+   inkscape:export-filename="/home/sebastien/Sources/LinuxMint-logo-Y/LM-logo-Y-01b(singleline).png"
+   inkscape:export-xdpi="180"
+   inkscape:export-ydpi="180">
+  <title
+     id="title3343">Linux Mint logo</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#c0c0c0"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="181.05305"
+     inkscape:cy="235.75984"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     inkscape:window-width="506"
+     inkscape:window-height="546"
+     inkscape:window-x="512"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     units="px"
+     fit-margin-top="64"
+     fit-margin-left="64"
+     fit-margin-right="64"
+     fit-margin-bottom="64"
+     showborder="true"
+     inkscape:showpageshadow="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4139"
+       spacingx="16"
+       spacingy="16"
+       empspacing="2"
+       originx="48"
+       originy="48"
+       empcolor="#ff3f3f"
+       empopacity="0.25098039" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Linux Mint logo</dc:title>
+        <dc:date>2018-10-26</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>copyright 2018 Sebastien Bouchard</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Linux Mint</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:description>2018 Linux Mint logo, modified from 2007 Linux Mint logo.</dc:description>
+        <dc:source>copyright 2007 Carlos Porto, copyright 2007 Clement Lefebvre</dc:source>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Linux Mint</rdf:li>
+            <rdf:li>logo</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="https://www.gnu.org/licenses/gpl-3.0.html" />
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>SPDX-License-Identifier: GPL-3.0-or-later</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:identifier>N/A</dc:identifier>
+        <dc:coverage>Worldwide</dc:coverage>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:contributor>
+        <dc:relation>N/A</dc:relation>
+        <dc:language>N/A</dc:language>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Bottom"
+     transform="translate(-256,-316.36217)"
+     sodipodi:insensitive="true">
+    <g
+       id="g4152">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 496,380.36217 c 97.504,-10e-6 176,78.496 176,175.99999 l 0,176.00001 -176,0 c -97.504,0 -176,-78.49602 -176,-176.00001 l 0,-175.99997 z"
+         id="path4150"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sscsscs" />
+      <path
+         sodipodi:nodetypes="sscsscs"
+         inkscape:connector-curvature="0"
+         id="rect4136"
+         d="m 496,396.36217 c 88.64,-10e-6 160,71.36 160,159.99999 l 0,160.00001 -160,0 c -88.64,0 -160,-71.36002 -160,-160.00001 l 0,-159.99997 z"
+         style="fill:#48b865;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 2"
+     transform="translate(48,40)"
+     sodipodi:insensitive="true">
+    <g
+       id="g3351">
+      <path
+         id="path3348"
+         d="m 96,88 0,160 c 0,26.50967 21.49033,48 48,48 l 32,0"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:32;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path4183"
+         d="m 208,296 32,0 c 26.50967,0 48,-21.49033 48,-48 l 0,-80 c 0,-17.67311 -14.32689,-32 -32,-32 -17.67311,0 -32,14.32689 -32,32 l 0,80"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:32;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-opacity:0.26666667;stroke:#ffffff;stroke-width:32;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 224,168 c 0,-17.67311 -14.32689,-32 -32,-32 -17.67311,0 -32,14.32689 -32,32 l 0,80"
+         id="path4193"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cscc" />
+    </g>
+  </g>
+</svg>
