@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
-   sodipodi:docname="trident-4.svg"
+   sodipodi:docname="trident-02.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -22,20 +22,23 @@
      inkscape:pageopacity="1"
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
-     showgrid="false"
+     showgrid="true"
      units="px"
      width="320px"
      scale-x="1"
      inkscape:zoom="2"
-     inkscape:cx="160"
-     inkscape:cy="160"
+     inkscape:cx="160.25"
+     inkscape:cy="159.75"
      inkscape:current-layer="layer1"
      inkscape:showpageshadow="false"
      inkscape:snap-page="true">
     <inkscape:grid
        type="xygrid"
        id="grid821"
-       empspacing="4" />
+       empspacing="4"
+       originy="90"
+       spacingx="20"
+       spacingy="15" />
   </sodipodi:namedview>
   <defs
      id="defs2" />
@@ -44,7 +47,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <circle
-       style="fill:#00be8d;stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
+       style="fill:#0ca0e8;stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
        id="path1393"
        cx="160"
        cy="160"
