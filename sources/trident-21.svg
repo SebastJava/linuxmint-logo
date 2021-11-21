@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
-   sodipodi:docname="trident-01.svg"
+   sodipodi:docname="trident-21.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -22,7 +22,7 @@
      inkscape:pageopacity="1"
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
-     showgrid="true"
+     showgrid="false"
      units="px"
      width="320px"
      scale-x="1"
@@ -47,7 +47,7 @@
      id="layer1">
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:30;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 80,80 160,220 240,80"
+       d="M 80,85.000001 160,220.00001 240,85.000001"
        id="path87473" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
