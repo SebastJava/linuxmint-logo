@@ -1,5 +1,4 @@
-# LinuxMint logo
-### unofficial design experiments
+## LINUXMINT LOGO design experiments
 
 ---
 
@@ -8,6 +7,10 @@
 ---
 
 ![preview](arobas-name-grey-2X.png)
+
+---
+
+![preview](Y-negative-name-2X.png)
 
 ---
 
