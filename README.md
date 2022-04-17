@@ -1,12 +1,15 @@
-# LinuxMint logo and brand resources (unofficial)
+# LinuxMint logo
+### unofficial design experiments
+
+---
 
 ![preview](trident-name.png)
 
+---
+
 ![preview](arobas-name-grey-2X.png)
 
-### Save as Plain SVG and use pixels (px) as units
-
-All these files are saved as plain SVG (Inkscape > File > Save As... Plain SVG). This makes the files smaller without loosing any important data. Except one information: all units are in pixels. Everything was made using round numbers here. There is no such thing as `x=1.234 px` anywhere here. Prior to doing any edit, please set your document and tool units to pixels and use only round numbers.
+---
 
 ### Why do i keep changing the logo again and again ?
 
@@ -31,3 +34,7 @@ In the comments received, among those that are positive, Reaccion Raul suggested
 ### Color
 
 I sincerely, really don't like the current official Mint logo color: #86BE43. This 87° hue is a yellow-green. This could be nice, when pure, but this is one of the brightest colors. So, it must be heavily subdued. And then it doesn't look nice at all. This #86BE43 is some kind of grayish yellowish green. Some kind of khaki green. The LinuxMint team wants to avoid pure green. Or forest green. I understand and agree with that. But then, I suggest moving into much higher hues, such as over 160°. I found this "Mint Leaf" color on https://flatuicolors.com/palette/us. This: #00B894. That's much better. I still keep searching for new colors.
+
+### Save as Plain SVG and use pixels (px) as units
+
+All these files are saved as plain SVG (Inkscape > File > Save As... Plain SVG). This makes the files smaller without loosing any important data. Except one information: all units are in pixels. Everything was made using round numbers here. There is no such thing as `x=1.234 px` anywhere here. Prior to doing any edit, please set your document and tool units to pixels and use only round numbers.
