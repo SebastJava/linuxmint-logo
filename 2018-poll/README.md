@@ -2,7 +2,7 @@
 
 But it got re-edited on 2022-04-16 for technical purposes. The design is still exactly the same, pixel-by-pixel, but the SVG coding behind the scene is now made much more simple, clear, and fast.
 
-**changelog:**  
+**changelog 2022-04-16:**  
   * delete layers
   * ungroup
   * convert stroke to path
