@@ -11,22 +11,6 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs2" />
-  <g
-     id="layer2"
-     style="display:none">
-    <circle
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="circle1017"
-       cx="180"
-       cy="180"
-       r="150" />
-    <circle
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="circle1019"
-       cx="180"
-       cy="180"
-       r="140" />
-  </g>
   <path
      id="path1393"
      style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
