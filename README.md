@@ -14,6 +14,11 @@
 
 ---
 
+### Download them all into a small ZIP
+
+* Click on the green **Code** button on the top-right ↗ of the main page and then **Download ZIP.**
+* Or click this: [download ZIP](https://github.com/SebastJava/linuxmint-logo/archive/refs/heads/master.zip).
+
 ### Why do i keep changing the logo again and again ?
 
 I kept changing the logo again and again, trying new versions, because i was not satisfied. And because all my past propositions got rejected. I think i finally have created one or two good ones: this trident version or this other arobas version and their variants. I would be very surprised these new logos would be officially approved, but at least now i can say i tried, and now i can just forget this.
