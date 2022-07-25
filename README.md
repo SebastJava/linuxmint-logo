@@ -1,18 +1,6 @@
 ## LINUXMINT LOGO design experiments
 
----
-
 ![preview](trident-name.png)
-
----
-
-![preview](arobas-name-grey-2X.png)
-
----
-
-![preview](Y-negative-name-2X.png)
-
----
 
 ### Download them all into a small ZIP
 
