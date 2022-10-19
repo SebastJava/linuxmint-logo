@@ -2,7 +2,7 @@
 
 | 2018-poll | Y-negative | Arobas | Trident |
 |:---:|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/SebastJava/linuxmint-logo/master/2018-poll/Mint-Y-logo-02.svg" width="512"> | <img src="https://raw.githubusercontent.com/SebastJava/linuxmint-logo/master/Y-negative.svg" width="512"> | <img src="https://raw.githubusercontent.com/SebastJava/linuxmint-logo/master/arobas-color.svg" width="512"> | <img src="https://raw.githubusercontent.com/SebastJava/linuxmint-logo/master/trident.svg" width="512"> |
+| <img src="https://raw.githubusercontent.com/SebastJava/linuxmint-logo/master/2018-poll/Mint-Y-logo-02.svg" height="256"> | <img src="https://raw.githubusercontent.com/SebastJava/linuxmint-logo/master/Y-negative.svg" height="256"> | <img src="https://raw.githubusercontent.com/SebastJava/linuxmint-logo/master/arobas-color.svg" height="256"> | <img src="https://raw.githubusercontent.com/SebastJava/linuxmint-logo/master/trident.svg" height="256"> |
 
 ### Download them all into a small ZIP
 
