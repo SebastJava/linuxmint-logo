@@ -1,6 +1,8 @@
-## LINUXMINT LOGO design experiments
-
 ![preview](trident-name.png)
+
+| 2018-poll | Y-negative | Arobas | Trident |
+|:---:|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/SebastJava/linuxmint-logo/master/2018-poll/Mint-Y-logo-02.svg" width="512"> | <img src="https://raw.githubusercontent.com/SebastJava/linuxmint-logo/master/Y-negative.svg" width="512"> | <img src="https://raw.githubusercontent.com/SebastJava/linuxmint-logo/master/arobas-color.svg" width="512"> | <img src="https://raw.githubusercontent.com/SebastJava/linuxmint-logo/master/trident.svg" width="512"> |
 
 ### Download them all into a small ZIP
 
@@ -23,16 +25,20 @@ What follows is my version of the story, of course. And i am trying to make it a
 
 A competition was held to define the Linux Mint logo. The logo proposed by Carlos Porto won the vote. That was back in year 2007. Ten years later, I installed Linux Mint on my little Netbook. I didn't like the logo that appeared on my screen. There was too many details and I didn't find much sense in it.
 
-I set out to redraw this logo from scratch, on a blank page, forgetting all those annoying details. I've searched the web and saw others have tried it before me. So I have the idea to share my creation. I'm afraid I won't be accepted so I set out to redo a logo similar to the official logo, but in a simple and flat version: [2018-poll](2018-poll) I present this on the LM forums: [VOTE! Mint-Y-LOGO... A New Version Of The Linux Mint Logo!](Https://forums.linuxmint.com/viewtopic.php?f=19&t=280401)
+![2018-poll/Mint-logo-compare.png](2018-poll/Mint-logo-compare.png)
+
+▲ **2018 poll: the old logo from 2007 versus my proposed new logo**
+
+I set out to redraw this logo from scratch, on a blank page, forgetting all those annoying details. I've searched the web and saw others have tried it before me. So I have the idea to share my creation. I'm afraid I won't be accepted so I set out to redo a logo similar to the official logo, but in a simple and flat version. I present this on the LM forums: [VOTE! Mint-Y-LOGO... A New Version Of The Linux Mint Logo!](Https://forums.linuxmint.com/viewtopic.php?f=19&t=280401)
 
 In the comments received, among those that are positive, Reaccion Raul suggested a simpler background, if any, or just the "Lm". And then Joan_2018 suggested doing that in black and white, without colors. And then, later, Clem presented us with a simplified logo with different backgrounds, mostly circular background shapes. So this logo is the result of a collective work, in my humble opinion. I'm glad Clem went further than me, completely forgetting the old background. I approve and continue on this path, adding my personal touch.
 
 ### Color
 
-I sincerely, really don't like the current official Mint logo color: #86BE43. This 87° hue is a yellow-green. This could be nice, when pure, but this is one of the brightest colors. So, it must be heavily subdued. And then it doesn't look nice at all. This #86BE43 is some kind of grayish yellowish green. Some kind of khaki green. The LinuxMint team wants to avoid pure green. Or forest green. I understand and agree with that. But then, I suggest moving into much higher hues, such as over 160°. I found this "Mint Leaf" color on https://flatuicolors.com/palette/us. This: #00B894. That's much better. I still keep searching for new colors.
+I sincerely, really don't like the current official Mint logo color: #86BE43. This 87° hue is a yellow-green. This could be nice, when pure, but this is one of the brightest colors. So, it must be heavily subdued. And then it doesn't look nice at all. This #86BE43 is some kind of grayish yellowish green. Some kind of khaki green. The LinuxMint team wants to avoid pure green. Or forest green. I understand and agree with that. But then, I suggest moving into much higher hues, around 160°.
 
 ### Save as Plain SVG and use pixels (px) as units
 
 All these files are saved as plain SVG (Inkscape > File > Save As... Plain SVG). This makes the files smaller without loosing any important data. Except one information: all units are in pixels. Everything was made using round numbers here. There is no such thing as `x=1.234 px` anywhere here. Prior to doing any edit, please set your document and tool units to pixels and use only round numbers.
 
-**Prefer SVG format whenever possible.** SVG stands for Scalable Vector Graphics. They will always be displayed perfectly at any size, large or small. And these are the source files. They can be changed. You can easily change shapes or colors. And they are very lightweight, so very fast on the internet.
+**Prefer SVG format whenever possible.** SVG stands for Scalable Vector Graphics. They will always be displayed perfectly at any size, large or small. And these are the source files. They can be changed. You can easily change shapes or colors. And they are very lightweight, thus very fast on the internet.
