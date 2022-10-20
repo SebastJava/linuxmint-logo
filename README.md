@@ -1,8 +1,6 @@
-![preview](trident-name.png)
+![preview](preview.png)
 
-| 2018-poll | Y-negative | Arobas | Trident |
-|:---:|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/SebastJava/linuxmint-logo/master/Mint-Y-logo-2018.svg" height="256"> | <img src="https://raw.githubusercontent.com/SebastJava/linuxmint-logo/master/Y-negative.svg" height="256"> | <img src="https://raw.githubusercontent.com/SebastJava/linuxmint-logo/master/arobas-color.svg" height="256"> | <img src="https://raw.githubusercontent.com/SebastJava/linuxmint-logo/master/trident.svg" height="256"> |
+# LinuxMint logo design experiments
 
 ### Download them all into a small ZIP
 
