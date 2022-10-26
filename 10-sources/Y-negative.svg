@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="320"
-   height="320"
-   viewBox="0 0 320 320"
+   width="352"
+   height="352"
+   viewBox="0 0 352 352"
    id="svg2"
    version="1.1"
-   sodipodi:docname="Mint-Y-logo-2018-02.svg"
+   sodipodi:docname="Y-negative.svg"
    xml:space="preserve"
    inkscape:version="1.2 (1:1.2.1+202207142221+cd75a1ee6d)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,21 +27,19 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="2"
-     inkscape:cx="153"
+     inkscape:cx="156.75"
      inkscape:cy="176"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3"><inkscape:grid
+     inkscape:current-layer="layer2"><inkscape:grid
        type="xygrid"
        id="grid899"
        spacingx="16"
        spacingy="16"
-       empspacing="2"
-       originx="0"
-       originy="0" /></sodipodi:namedview><title
+       empspacing="2" /></sodipodi:namedview><title
      id="title3343">LinuxMint logo</title><defs
      id="defs4" /><metadata
      id="metadata7"><rdf:RDF><cc:Work
@@ -49,14 +47,9 @@
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>LinuxMint logo</dc:title><dc:date>2018-10-26 -&gt; 2022-10-26</dc:date><dc:creator><cc:Agent><dc:title>Sébastien Bouchard</dc:title></cc:Agent></dc:creator><dc:description>2018 Linux Mint logo, new drawing inspired by the 2007 logo.</dc:description><dc:source>copyright 2007 Carlos Porto, copyright 2007 Clément Lefebvre</dc:source><cc:license
            rdf:resource="https://www.gnu.org/licenses/gpl-3.0.html" /><dc:rights><cc:Agent><dc:title>SPDX-License-Identifier: GPL-3.0-or-later</dc:title></cc:Agent></dc:rights><dc:coverage>worldwide</dc:coverage><dc:contributor><cc:Agent><dc:title /></cc:Agent></dc:contributor></cc:Work></rdf:RDF></metadata><g
      inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="background"><path
-       id="leaf"
-       style="opacity:1;fill:#0ac386;fill-opacity:1;stroke:none;stroke-width:0"
-       d="M 0,0 V 160 A 160,160 0 0 0 160,320 H 320 V 160 A 160,160 0 0 0 160,0 Z" /></g><g
-     inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Lm"><path
        id="Lm-path"
        style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none"
-       d="m 48,48 v 160 c 0,35.15663 28.843365,64 64,64 h 32 V 240 H 112 C 94.13741,240 80,225.86259 80,208 V 48 Z m 112,32 c -26.3201,0 -48,21.6799 -48,48 v 80 h 32 v -80 c 0,-9.02605 6.97395,-16 16,-16 9.02605,0 16,6.97395 16,16 v 80 h 32 v -80 c 0,-9.02605 6.97395,-16 16,-16 9.02604,0 16,6.97396 16,16 v 80 c 0,17.86259 -14.13741,32 -32,32 h -32 v 32 h 32 c 35.15663,0 64,-28.84337 64,-64 V 128 C 272,101.6799 250.3201,80 224,80 211.70433,80 200.53309,84.8585 192,92.58398 183.46691,84.8585 172.29567,80 160,80 Z" /></g></svg>
+       d="m 64,80 v 144 c 0,35.15663 28.843365,64 64,64 h 32 V 256 H 128 C 110.13741,256 96,241.86259 96,224 V 80 Z m 112,16 c -26.3201,0 -48,21.6799 -48,48 v 80 h 32 v -80 c 0,-9.02605 6.97395,-16 16,-16 9.02605,0 16,6.97395 16,16 v 80 h 32 v -80 c 0,-9.02605 6.97395,-16 16,-16 9.02604,0 16,6.97396 16,16 v 80 c 0,17.86259 -14.13741,32 -32,32 h -32 v 32 h 32 c 35.15663,0 64,-28.84337 64,-64 v -80 c 0,-26.3201 -21.6799,-48 -48,-48 -12.29567,0 -23.46691,4.8585 -32,12.58398 C 199.46691,100.8585 188.29567,96 176,96 Z"
+       sodipodi:nodetypes="cssccssccssccsssccsssssccsssscs" /></g></svg>

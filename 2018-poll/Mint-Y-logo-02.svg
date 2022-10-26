@@ -7,62 +7,57 @@
    viewBox="0 0 352 352"
    id="svg2"
    version="1.1"
+   sodipodi:docname="Mint-Y-logo-02.svg"
+   xml:space="preserve"
+   inkscape:version="1.2 (1:1.2.1+202207142221+cd75a1ee6d)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <title
-     id="title3343">LinuxMint logo</title>
-  <defs
-     id="defs4" />
-  <metadata
-     id="metadata7">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>LinuxMint logo</dc:title>
-        <dc:date>2018-10-26</dc:date>
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>Sébastien Bouchard</dc:title>
-          </cc:Agent>
-        </dc:creator>
-        <dc:description>2018 Linux Mint logo, new drawing inspired by the 2007 logo.</dc:description>
-        <dc:source>copyright 2007 Carlos Porto, copyright 2007 Clément Lefebvre</dc:source>
-        <cc:license
-           rdf:resource="https://www.gnu.org/licenses/gpl-3.0.html" />
-        <dc:rights>
-          <cc:Agent>
-            <dc:title>SPDX-License-Identifier: GPL-3.0-or-later</dc:title>
-          </cc:Agent>
-        </dc:rights>
-        <dc:coverage>worldwide</dc:coverage>
-        <dc:contributor>
-          <cc:Agent>
-            <dc:title />
-          </cc:Agent>
-        </dc:contributor>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <path
-     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 176,0 c 97.504,-1e-5 176,78.496 176,175.99999 V 352 H 176 C 78.496,352 0,273.50398 0,175.99999 V 2e-5 Z"
-     id="path4150" />
-  <path
-     id="rect4136"
-     d="m 176,16 c 88.64,-10e-6 160,71.36 160,159.99999 V 336 H 176 C 87.36,336 16,264.63998 16,175.99999 V 16.00002 Z"
-     style="fill:#48b865;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  <path
-     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
-     d="m 64,64 v 160 c 0,35.15667 28.84332,64 64,64 h 32 V 256 H 128 C 110.13739,256 96,241.86261 96,224 V 64 Z"
-     id="path3348" />
-  <path
-     id="path4183"
-     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
-     d="m 176,96 c -26.32013,0 -48,21.67987 -48,48 v 80 h 32 v -80 c 0,-9.02606 6.97394,-16 16,-16 9.02606,0 16,6.97394 16,16 v 80 h 32 v -80 c 0,-9.02606 6.97394,-16 16,-16 9.02606,0 16,6.97394 16,16 v 80 c 0,17.86261 -14.13739,32 -32,32 h -32 v 32 h 32 c 35.15668,0 64,-28.84333 64,-64 v -80 c 0,-26.32013 -21.67987,-48 -48,-48 -12.24391,0 -23.47979,4.69545 -32,12.36328 C 199.47979,100.69545 188.24391,96 176,96 Z" />
-</svg>
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><sodipodi:namedview
+     id="namedview10"
+     pagecolor="#e5e5e5"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2"
+     inkscape:cx="176"
+     inkscape:cy="176"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3"><inkscape:grid
+       type="xygrid"
+       id="grid899"
+       spacingx="16"
+       spacingy="16"
+       empspacing="2" /></sodipodi:namedview><title
+     id="title3343">LinuxMint logo</title><defs
+     id="defs4" /><metadata
+     id="metadata7"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>LinuxMint logo</dc:title><dc:date>2018-10-26 -&gt; 2022-10-26</dc:date><dc:creator><cc:Agent><dc:title>Sébastien Bouchard</dc:title></cc:Agent></dc:creator><dc:description>2018 Linux Mint logo, new drawing inspired by the 2007 logo.</dc:description><dc:source>copyright 2007 Carlos Porto, copyright 2007 Clément Lefebvre</dc:source><cc:license
+           rdf:resource="https://www.gnu.org/licenses/gpl-3.0.html" /><dc:rights><cc:Agent><dc:title>SPDX-License-Identifier: GPL-3.0-or-later</dc:title></cc:Agent></dc:rights><dc:coverage>worldwide</dc:coverage><dc:contributor><cc:Agent><dc:title /></cc:Agent></dc:contributor></cc:Work></rdf:RDF></metadata><g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="background"><path
+       id="leaf-outline"
+       style="opacity:1;fill:#ffffff;stroke:none;stroke-width:0;fill-opacity:1"
+       d="M 0,0 V 176 A 176,176 0 0 0 176,352 H 352 V 176 A 176,176 0 0 0 176,0 Z" /><path
+       id="leaf"
+       style="opacity:1;fill:#48b866;stroke-width:0;stroke:none;fill-opacity:1"
+       d="M 16 16 L 16 176 A 160 160 0 0 0 176 336 L 336 336 L 336 176 A 160 160 0 0 0 176 16 L 16 16 z " /></g><g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Lm"><path
+       id="Lm-path"
+       style="color:#000000;fill:#ffffff;stroke:none;stroke-width:0;stroke-dasharray:none;fill-opacity:1"
+       d="M 64 64 L 64 224 C 64 259.15663 92.843365 288 128 288 L 160 288 L 160 256 L 128 256 C 110.13741 256 96 241.86259 96 224 L 96 64 L 64 64 z M 176 96 C 149.6799 96 128 117.6799 128 144 L 128 224 L 160 224 L 160 144 C 160 134.97395 166.97395 128 176 128 C 185.02605 128 192 134.97395 192 144 L 192 224 L 224 224 L 224 144 C 224 134.97395 230.97395 128 240 128 C 249.02604 128 256 134.97396 256 144 L 256 224 C 256 241.86259 241.86259 256 224 256 L 192 256 L 192 288 L 224 288 C 259.15663 288 288 259.15663 288 224 L 288 144 C 288 117.6799 266.3201 96 240 96 C 227.70433 96 216.53309 100.8585 208 108.58398 C 199.46691 100.8585 188.29567 96 176 96 z " /></g></svg>
