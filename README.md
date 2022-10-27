@@ -9,7 +9,7 @@
 
 ![](90-preview/GitHub-code-button.png)
 
-* Click on the green **Code** button on the top-right ↗ of the main page and then **Download ZIP.**
+* Click on the green **Code** button on the top-right ↗ of the [main page](https://github.com/SebastJava/linuxmint-logo) and then **Download ZIP.**
 * Or clone it: `git clone https://github.com/SebastJava/linuxmint-logo.git`.
 
 ### Why do i keep changing the logo again and again ?
