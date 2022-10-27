@@ -1,11 +1,16 @@
-![preview](preview.png)
-
 # LinuxMint logo design experiments
+
+![90-preview/preview](90-preview/preview.png)
+
+---
+---
 
 ### Download them all into a small ZIP
 
+![](90-preview/GitHub-code-button.png)
+
 * Click on the green **Code** button on the top-right ↗ of the main page and then **Download ZIP.**
-* Or click this: [download ZIP](https://github.com/SebastJava/linuxmint-logo/archive/refs/heads/master.zip).
+* Or clone it: `git clone https://github.com/SebastJava/linuxmint-logo.git`.
 
 ### Why do i keep changing the logo again and again ?
 
@@ -35,10 +40,10 @@ In the comments received, among those that are positive, Reaccion Raul suggested
 
 I sincerely, really don't like the current official Mint logo color: #86BE43. This 87° hue is a yellow-green. This could be nice, when pure, but this is one of the brightest colors. So, it must be heavily subdued. And then it doesn't look nice at all. This #86BE43 is some kind of grayish yellowish green. Some kind of khaki green. The LinuxMint team wants to avoid pure green. Or forest green. I understand and agree with that. But then, I suggest moving into much higher hues, around 160°.
 
-### Save as Plain SVG and use pixels (px) as units
-
-All these files are saved as plain SVG (Inkscape > File > Save As... Plain SVG). This makes the files smaller without loosing any important data. Except one information: all units are in pixels. Everything was made using round numbers here. There is no such thing as `x=1.234 px` anywhere here. Prior to doing any edit, please set your document and tool units to pixels and use only round numbers.
-
 ### Prefer SVG format whenever possible
 
 SVG stands for Scalable Vector Graphics. They will always be displayed perfectly at any size, large or small. And these are the source files. They can be changed. You can easily change shapes or colors. And they are very lightweight, thus very fast on the internet.
+
+### Save as Plain SVG and use pixels (px) as units
+
+All these files are saved as plain SVG (Inkscape > File > Save As... Plain SVG). This makes the files smaller without loosing any important data. Except one information: all units are in pixels. Everything was made using round numbers here. There is no such thing as `x=1.234 px` anywhere here. Prior to doing any edit, please set your document and tool units to pixels and use only round numbers.
