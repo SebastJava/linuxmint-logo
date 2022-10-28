@@ -14,7 +14,7 @@
 
 ### Why do i keep changing the logo again and again ?
 
-I kept changing the logo again and again, trying new versions, because i was not satisfied. And because all my past propositions got rejected. I think i finally have created one or two good ones: this trident version or this other arobas version and their variants. I would be very surprised these new logos would be officially approved, but at least now i can say i tried, and now i can just forget this.
+I kept changing the logo again and again, trying new versions, because i was not satisfied. And because all my past propositions got rejected. I think i finally have created one or two good ones: this trident or this Y-negative. I would be very surprised these new logos would be officially approved, but at least now i can say i tried, and now i can just forget this.
 
 What is a good logo? A good logo has some meaning, carries some values, in an obvious or hidden manner. And these symbols and values should correspond to the entity the logo represents, of course. That is what logo design is all about. And this logo must be simple, to be quickly recognizable even when printed small or seen from far. And, of course, it must be technically well done, mastered. Well, the old LinuxMint logo from 2007 had none of these requirements. To sum up, this old logo from 2007 is... old, it doesn't look like a leaf, in fact it doesn't look like anything, and it does not carry any values, and all the alignments and spacings are bad, and the colour is bad, and the subtle gradient in there is just a rough drawing. And, technically, the SVG file is messy and the font looks like some vectored image scan... It is just... ugly.
 
