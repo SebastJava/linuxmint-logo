@@ -21,7 +21,7 @@
            rdf:resource="https://www.gnu.org/licenses/gpl-3.0.html" /><dc:rights><cc:Agent><dc:title>SPDX-License-Identifier: GPL-3.0-or-later</dc:title></cc:Agent></dc:rights><dc:coverage>worldwide</dc:coverage><dc:contributor><cc:Agent><dc:title /></cc:Agent></dc:contributor></cc:Work></rdf:RDF></metadata><g
      id="layer3"><path
        id="leaf"
-       style="opacity:1;fill:#0ac386;fill-opacity:1;stroke:none;stroke-width:0"
+       style="opacity:1;fill:#0aba7f;fill-opacity:1;stroke:none;stroke-width:0"
        d="M 0,0 V 160 A 160,160 0 0 0 160,320 H 320 V 160 A 160,160 0 0 0 160,0 Z" /></g><g
      id="layer2"><path
        id="Lm-path"
