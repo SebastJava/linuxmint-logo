@@ -8,7 +8,7 @@
    id="svg2"
    version="1.1"
    xml:space="preserve"
-   sodipodi:docname="Y-negative-symbolic.svg"
+   sodipodi:docname="badge-symbolic.svg"
    inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -28,11 +28,11 @@
      inkscape:window-width="1920"
      inkscape:window-height="492"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="524"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2" /><defs
      id="defs4" /><path
      id="Lm-circle"
-     style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
-     d="M 128 0 A 128 128 0 0 0 0 128 A 128 128 0 0 0 128 256 A 128 128 0 0 0 256 128 A 128 128 0 0 0 128 0 z M 44 50 L 68 50 L 68 158 C 68 171.39694 78.603073 182 92 182 L 116 182 L 116 206 L 92 206 C 65.632556 206 44 184.36745 44 158 L 44 50 z M 128 62 C 137.22175 62 145.6002 65.643396 152 71.4375 C 158.39981 65.643396 166.77826 62 176 62 C 195.74006 62 212 78.25995 212 98 L 212 158 C 212 184.36745 190.36745 206 164 206 L 140 206 L 140 182 L 164 182 C 177.39694 182 188 171.39694 188 158 L 188 98 C 188 91.230477 182.76952 86 176 86 C 169.23048 86 164 91.230477 164 98 L 164 158 L 140 158 L 140 98 C 140 91.230477 134.76953 86 128 86 C 121.23048 86 116 91.230477 116 98 L 116 158 L 92 158 L 92 98 C 92 78.25995 108.25995 62 128 62 z "
-     inkscape:label="Lm-circle" /></svg>
+     style="fill:#bfbfbf;fill-opacity:1;stroke-width:0;stroke:none"
+     d="M 128 0 A 128 128 0 0 0 0 128 A 128 128 0 0 0 128 256 A 128 128 0 0 0 256 128 A 128 128 0 0 0 128 0 z M 44 50 L 68 50 L 68 158 C 68 171.39695 78.603063 182 92 182 L 164 182 C 177.39695 182 188 171.39695 188 158 L 188 98 C 188 91.230457 182.76953 86 176 86 C 169.23046 86 164 91.230457 164 98 L 164 158 L 140 158 L 140 98 C 140 91.230457 134.76954 86 128 86 C 121.23046 86 116 91.230457 116 98 L 116 158 L 92 158 L 92 98 C 92 78.25992 108.25992 62 128 62 C 137.22175 62 145.60018 65.643386 152 71.4375 C 158.39982 65.643386 166.77825 62 176 62 C 195.74008 62 212 78.25992 212 98 L 212 158 C 212 184.36747 190.36747 206 164 206 L 92 206 C 65.632526 206 44 184.36747 44 158 L 44 50 z "
+     inkscape:label="LM-circle" /></svg>
